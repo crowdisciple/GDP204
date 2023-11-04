@@ -1,0 +1,1325 @@
+﻿Log file open, 11/04/23 22:35:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=30920)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GDP204_PROJECT
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/GDP204_PROJECT.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.3570] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="4caad0204bee8fa126d293a99adf9532"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.496483
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-978485BE42F3099A909ED39AD1927FCC
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.06 seconds
+LogConfig: Display: Loading Android ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Linux ini files took 0.14 seconds
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.12 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogConfig: Display: Loading TVOS ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogConfig: Display: Loading Unix ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogConfig: Display: Loading Windows ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.3570] (), CPU:         Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.11.04-11.35.59:480][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.11.04-11.35.59:480][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.11.04-11.35.59:480][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.11.04-11.35.59:481][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.11.04-11.35.59:485][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.11.04-11.35.59:485][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.11.04-11.35.59:485][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.11.04-11.35.59:485][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.11.04-11.35.59:485][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.11.04-11.35.59:485][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.11.04-11.35.59:485][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.11.04-11.35.59:485][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.11.04-11.35.59:485][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.11.04-11.35.59:485][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.11.04-11.35.59:485][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.11.04-11.35.59:507][  0]LogD3D12RHI: Aftermath initialized
+[2023.11.04-11.35.59:507][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.11.04-11.36.00:325][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1050 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2023.11.04-11.36.00:325][  0]LogD3D12RHI: Adapter has 4017MB of dedicated video memory, 0MB of dedicated system memory, and 8170MB of shared system memory, 1 output[s]
+[2023.11.04-11.36.00:749][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.11.04-11.36.00:749][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8170MB of shared system memory, 0 output[s]
+[2023.11.04-11.36.00:749][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.11.04-11.36.00:749][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.11.04-11.36.00:749][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.11.04-11.36.00:749][  0]LogHAL: Display: Platform has ~ 16 GB [17134333952 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.11.04-11.36.00:749][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.11.04-11.36.00:749][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.11.04-11.36.00:749][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.11.04-11.36.00:750][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.11.04-11.36.00:750][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Config/WindowsEditor/Editor.ini]
+[2023.11.04-11.36.00:750][  0]LogInit: Computer: DESKTOP-HONS1BD
+[2023.11.04-11.36.00:750][  0]LogInit: User: panth
+[2023.11.04-11.36.00:750][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.11.04-11.36.00:750][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.11.04-11.36.00:750][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2023.11.04-11.36.00:750][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.11.04-11.36.00:750][  0]LogMemory: Process Physical Memory: 257.38 MB used, 269.43 MB peak
+[2023.11.04-11.36.00:750][  0]LogMemory: Process Virtual Memory: 193.96 MB used, 198.87 MB peak
+[2023.11.04-11.36.00:750][  0]LogMemory: Physical Memory: 7452.17 MB used,  8888.41 MB free, 16340.57 MB total
+[2023.11.04-11.36.00:750][  0]LogMemory: Virtual Memory: 12036.93 MB used,  10556.14 MB free, 22593.06 MB total
+[2023.11.04-11.36.00:750][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.11.04-11.36.00:758][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.11.04-11.36.00:778][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.11.04-11.36.00:780][  0]LogInit: Using OS detected language (en-US).
+[2023.11.04-11.36.00:780][  0]LogInit: Using OS detected locale (en-AU).
+[2023.11.04-11.36.00:793][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.11.04-11.36.01:026][  0]LogInit: Setting process to per monitor DPI aware
+[2023.11.04-11.36.01:041][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.11.04-11.36.01:041][  0]LogWindowsTextInputMethodSystem:   - English (Australia) - (Keyboard).
+[2023.11.04-11.36.01:041][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.11.04-11.36.01:041][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.11.04-11.36.01:064][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.11.04-11.36.01:064][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.11.04-11.36.01:300][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.11.04-11.36.01:307][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.11.04-11.36.01:307][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.11.04-11.36.01:732][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.11.04-11.36.01:732][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.11.04-11.36.01:732][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.11.04-11.36.01:732][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.11.04-11.36.01:732][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.11.04-11.36.01:732][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.11.04-11.36.01:732][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.11.04-11.36.01:732][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.11.04-11.36.01:732][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.11.04-11.36.01:732][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.11.04-11.36.01:732][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.11.04-11.36.01:732][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.11.04-11.36.01:732][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.11.04-11.36.01:818][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.11.04-11.36.01:831][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.11.04-11.36.01:852][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.11.04-11.36.01:864][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.11.04-11.36.01:864][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.11.04-11.36.01:947][  0]LogD3D12RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2023.11.04-11.36.01:947][  0]LogWindows: Attached monitors:
+[2023.11.04-11.36.01:947][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.11.04-11.36.01:947][  0]LogWindows: Found 1 attached monitors.
+[2023.11.04-11.36.01:947][  0]LogWindows: EnumDisplayDevices:
+[2023.11.04-11.36.01:947][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.11.04-11.36.01:947][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.11.04-11.36.01:948][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.11.04-11.36.01:948][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.11.04-11.36.01:949][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.11.04-11.36.01:949][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2023.11.04-11.36.01:949][  0]LogD3D12RHI:   Driver Version: 537.34 (internal:31.0.15.3734, unified:537.34)
+[2023.11.04-11.36.01:949][  0]LogD3D12RHI:      Driver Date: 9-1-2023
+[2023.11.04-11.36.01:949][  0]LogRHI: Texture pool is 2151 MB (70% of 3073 MB)
+[2023.11.04-11.36.01:949][  0]LogD3D12RHI: Async texture creation enabled
+[2023.11.04-11.36.01:949][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.11.04-11.36.01:977][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.11.04-11.36.01:992][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/GDP204_PROJECT.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/TurnkeyReport_0.log" -log="C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/TurnkeyLog_0.log" -project="C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/GDP204_PROJECT.uproject"  -platform=all'
+[2023.11.04-11.36.01:992][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/GDP204_PROJECT.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/TurnkeyReport_0.log" -log="C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/TurnkeyLog_0.log" -project="C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/GDP204_PROJECT.uproject"  -platform=all" ]
+[2023.11.04-11.36.02:034][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.11.04-11.36.02:048][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.11.04-11.36.02:048][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.11.04-11.36.02:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.11.04-11.36.02:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.11.04-11.36.02:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.11.04-11.36.02:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.11.04-11.36.02:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.11.04-11.36.02:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.11.04-11.36.02:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.11.04-11.36.02:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.11.04-11.36.02:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.11.04-11.36.02:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.11.04-11.36.02:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.11.04-11.36.02:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.11.04-11.36.02:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.11.04-11.36.02:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.11.04-11.36.02:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.11.04-11.36.02:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.11.04-11.36.02:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.11.04-11.36.02:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.11.04-11.36.02:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.11.04-11.36.02:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.11.04-11.36.02:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.11.04-11.36.02:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.11.04-11.36.02:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.11.04-11.36.02:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.11.04-11.36.02:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.11.04-11.36.02:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.11.04-11.36.02:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.11.04-11.36.02:141][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.11.04-11.36.02:156][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.11.04-11.36.02:162][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.11.04-11.36.02:163][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.11.04-11.36.02:163][  0]LogTargetPlatformManager:   ADPCM
+[2023.11.04-11.36.02:163][  0]LogTargetPlatformManager:   PCM
+[2023.11.04-11.36.02:170][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.11.04-11.36.02:170][  0]LogTargetPlatformManager:   BINKA
+[2023.11.04-11.36.02:170][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.11.04-11.36.02:170][  0]LogTargetPlatformManager:   OGG
+[2023.11.04-11.36.02:170][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.11.04-11.36.02:170][  0]LogTargetPlatformManager:   OPUS
+[2023.11.04-11.36.02:256][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.11.04-11.36.02:265][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.11.04-11.36.02:265][  0]LogTargetPlatformManager:   SF_METAL
+[2023.11.04-11.36.02:265][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.11.04-11.36.02:265][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.11.04-11.36.02:265][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.11.04-11.36.02:265][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.11.04-11.36.02:265][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.11.04-11.36.02:265][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.11.04-11.36.02:265][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.11.04-11.36.02:265][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.11.04-11.36.02:265][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.11.04-11.36.02:265][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.11.04-11.36.02:266][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.11.04-11.36.02:266][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.11.04-11.36.02:266][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.11.04-11.36.02:266][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.11.04-11.36.02:271][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.11.04-11.36.02:271][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.11.04-11.36.02:271][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.11.04-11.36.02:271][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.11.04-11.36.02:271][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.11.04-11.36.02:271][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.11.04-11.36.02:271][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.11.04-11.36.02:271][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.11.04-11.36.02:272][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.11.04-11.36.02:281][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.11.04-11.36.02:281][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.11.04-11.36.02:291][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.11.04-11.36.02:296][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.11.04-11.36.02:296][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.11.04-11.36.02:296][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.11.04-11.36.02:296][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.11.04-11.36.02:334][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.11.04-11.36.02:334][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.11.04-11.36.02:334][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.11.04-11.36.02:424][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.11.04-11.36.02:424][  0]LogDerivedDataCache: Speed tests for C:/Users/panth/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.09 seconds
+[2023.11.04-11.36.02:424][  0]LogDerivedDataCache: Display: Performance to C:/Users/panth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=135.07MBs, RandomWriteSpeed=11.44MBs. Assigned SpeedClass 'Local'
+[2023.11.04-11.36.02:425][  0]LogDerivedDataCache: Using Local data cache path C:/Users/panth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.11.04-11.36.02:425][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.11.04-11.36.02:425][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.11.04-11.36.02:438][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.11.04-11.36.02:438][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.11.04-11.36.02:439][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/Shaders/WorkingDirectory/26492/).
+[2023.11.04-11.36.02:439][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/panth/AppData/Local/Temp/UnrealShaderWorkingDir/CE56457746BFC73257E2C9AEE80A423C/'.
+[2023.11.04-11.36.02:440][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.11.04-11.36.02:440][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2023.11.04-11.36.04:861][  0]LogSlate: Using FreeType 2.10.0
+[2023.11.04-11.36.04:862][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.11.04-11.36.04:923][  0]LogAssetRegistry: FAssetRegistry took 0.0233 seconds to start up
+[2023.11.04-11.36.04:934][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.11.04-11.36.05:364][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.11.04-11.36.05:365][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.11.04-11.36.06:297][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.11.04-11.36.06:297][  0]LogDeviceProfileManager: Active device profile: [0000073E9CE38340][0000073E83725000 50] WindowsEditor
+[2023.11.04-11.36.06:297][  0]LogDeviceProfileManager: Profiles: [0000073E9CE37E00][0000073E932DA000 50] Windows, [0000073E9CE38340][0000073E83725000 50] WindowsEditor, [0000073E9CE36E40][0000073E93340000 50] WindowsServer, [0000073E9CE347C0][0000073E9A990000 50] WindowsClient, [0000073E9CE37A80][0000073E9A995000 50] IOS, [0000073E9CE34B40][0000073E9A997800 50] iPadAir2, [0000073E9CE34600][0000073E9A99C800 50] IPadPro, [0000073E9CE38500][0000073E9A99A000 50] iPadAir3, [0000073E9CE33F00][0000073E93342800 50] iPadAir4, [0000073E9CE36580][0000073E9A9A0000 50] iPadMini4, [0000073E9CE38880][0000073E9A9A5000 50] iPadMini5, [0000073E9CE32D80][0000073E9A9A7800 50] iPadMini6, [0000073E9CE3B600][0000073E9A992800 50] iPhone6S, [0000073E9CE3B980][0000073E9A9AC800 50] iPhone7, [0000073E9CE39300][0000073E9A9AA000 50] iPodTouch7, [0000073E9CE3B7C0][0000073E9A9C0000 50] iPhone6SPlus, [0000073E9CE340C0][0000073E9A9C5000 50] iPhone7Plus, [0000073E9CE39A00][0000073E9A9C7800 50] iPhoneSE, [0000073E9CE39140][0000073E9A9CA000 50] iPhone8, [0000073E9CE3A100][0000073E9A9CC800 50] iPhone8Plus, [0000073E9CE35E80][0000073E9A9A2800 50] iPhoneX, [0000073E9CE3BB40][0000073E9A9D0000 50] iPhoneXS, [0000073E9CE35400][0000073E9A9D5000 50] iPhoneXSMax, [0000073E9CE3B440][0000073E9A9D7800 50] iPhoneXR, [0000073E9CE38F80][0000073E9A9DA000 50] iPhone11, [0000073E9CE3A800][0000073E9A9DC800 50] iPhone11Pro, [0000073E9CE378C0][0000073E9A9C2800 50] iPhone11ProMax, [0000073E9CE3A640][0000073E9A9E0000 50] iPhoneSE2, [0000073E9CE38A40][0000073E9A9E5000 50] iPhone12Mini, [0000073E9CE39F40][0000073E9A9E7800 50] iPhone12, [0000073E9CE38DC0][0000073E9A9EA000 50] iPhone12Pro, [0000073E9CE33100][0000073E9A9EC800 50] iPhone12ProMax, [0000073E9CE355C0][0000073E9A9D2800 50] iPhone13Mini, [0000073E9CE37700][0000073E9A9F0000 50] iPhone13, [0000073E9CE3B280][0000073E9A9F5000 50] iPhone13Pro, [0000073E9CE34980][0000073E9A9F7800 50] iPhone13ProMax, [0000073E9CE3A9C0][0000073E9A9FA000 50] iPadPro105, [0000073E9CE34D00][0000073E9A9FC800 50] iPadPro129, [0000073E9CE36900][0000073E9A9E2800 50] iPadPro97, [0000073E9CE3A480][0000073E9AA10000 50] iPadPro2_129, [0000073E9CE38180][0000073E9AA15000 50] iPad5, [0000073E9CE3AB80][0000073E9AA17800 50] iPad6, [0000073E9CE37380][0000073E9AA1A000 50] iPad7, [0000073E9CE35080][0000073E9AA1C800 50] iPad8, [0000073E9CE35780][0000073E9A9F2800 50] iPad9, [0000073E9CE3A2C0][0000073E9AA20000 50] iPadPro11, [0000073E9CE35240][0000073E9AA25000 50] iPadPro2_11, [0000073E9CE35CC0][0000073E9AA27800 50] iPadPro3_11, [0000073E9CE371C0][0000073E9AA2A000 50] iPadPro3_129, [0000073E9CE39BC0][0000073E9AA2C800 50] iPadPro4_129, [0000073E9CE386C0][0000073E9AA12800 50] iPadPro5_129, [0000073E9CE3B0C0][0000073E9AA30000 50] AppleTV, [0000073E9CE39D80][0000073E9AA35000 50] AppleTV4K, [0000073E9CE36200][0000073E9AA37800 50] TVOS, [0000073E9CE3DE40][0000073E9AA3C800 50] Mac, [0000073E9CE3E1C0][0000073E9AA3A000 50] MacEditor, [0000073E9CE3CE80][0000073E9AA22800 50] MacClient, [0000073E9CE34EC0][0000073E9AA40000 50] MacServer, [0000073E9CE3E380][0000073E9AA47800 50] Linux, [0000073E9CE3E8C0][0000073E9AA45000 50] LinuxEditor, [0000073E9CE3C080][0000073E9AA4A000 50] LinuxArm64Editor, [0000073E9CE36740][0000073E9AA4C800 50] LinuxArm64, [0000073E9CE3D580][0000073E9AA32800 50] LinuxClient, [0000073E9CE3DAC0][0000073E9AA50000 50] LinuxArm64Client, [0000073E9CE3C780][0000073E9AA55000 50] LinuxServer, [0000073E9CE363C0][0000073E9AA57800 50] LinuxArm64Server, [0000073E9CE3BEC0][0000073E9AA5A000 50] Android, [0000073E9CE3D740][0000073E9AA5C800 50] Android_Preview_OpenGL, [0000073E9CE3E540][0000073E9AA42800 50] Android_Preview_Vulkan, [0000073E9CE3CB00][0000073E9AA60000 50] Android_Low, [0000073E9CE37C40][0000073E9AA65000 50] Android_Mid, [0000073E9CE37540][0000073E9AA67800 50] Android_High, [0000073E9CE3D200][0000073E9AA6A000 50] Android_Default, [0000073E9CE3AD40][0000073E9AA6C800 50] Android_Adreno4xx, [0000073E9CE35940][0000073E9AA52800 50] Android_Adreno5xx_Low, [0000073E9CE394C0][0000073E9AA70000 50] Android_Adreno5xx, [0000073E9CE3E000][0000073E9AA75000 50] Android_Adreno6xx, [0000073E9CE3BD00][0000073E9AA77800 50] Android_Adreno6xx_Vulkan, [0000073E9CE36AC0][0000073E9AA7A000 50] Android_Adreno7xx, [0000073E9CE38C00][0000073E9AA7C800 50] Android_Adreno7xx_Vulkan, [0000073E9CE3C5C0][0000073E9AA62800 50] Android_Mali_T6xx, [0000073E9CE3C400][0000073E9AA80000 50] Android_Mali_T7xx, [0000073E9CE36040][0000073E9AA85000 50] Android_Mali_T8xx, [0000073E9CE3EC40][0000073E9AA87800 50] Android_Mali_G71, [0000073E9CE3C240][0000073E9AA8A000 50] Android_Mali_G72, [0000073E9CE3EA80][0000073E9AA8C800 50] Android_Mali_G72_Vulkan, [0000073E9CE3EE00][0000073E9AA72800 50] Android_Mali_G76, [0000073E9CE3E700][0000073E9AA90000 50] Android_Mali_G76_Vulkan, [0000073E9CE39840][0000073E9AA95000 50] Android_Mali_G77, [0000073E9CE3EFC0][0000073E9AA97800 50] Android_Mali_G77_Vulkan, [0000073E9CE3D900][0000073E9AA9A000 50] Android_Mali_G78, [0000073E9CE35B00][0000073E9AA9C800 50] Android_Mali_G78_Vulkan, [0000073E9CE3D040][0000073E9AA82800 50] Android_Mali_G710, [0000073E9AAB0000][0000073E9AAA0000 50] Android_Mali_G710_Vulkan, [0000073E9AAB2300][0000073E9AAA5000 50] Android_Xclipse_920, [0000073E9AAB2140][0000073E9AAA7800 50] Android_Xclipse_920_Vulkan, [0000073E9AAB1F80][0000073E9AAAA000 50] Android_Vulkan_SM5, [0000073E9AAB1DC0][0000073E9AAAC800 50] Android_PowerVR_G6xxx, [0000073E9AAB1C00][0000073E9AA92800 50] Android_PowerVR_GT7xxx, [0000073E9AAB1A40][0000073E9AAC0000 50] Android_PowerVR_GE8xxx, [0000073E9AAB1880][0000073E9AAC5000 50] Android_PowerVR_GM9xxx, [0000073E9AAB16C0][0000073E9AAC7800 50] Android_PowerVR_GM9xxx_Vulkan, [0000073E9AAB2F40][0000073E9AACA000 50] Android_TegraK1, [0000073E9AAB0E00][0000073E9AACC800 50] Android_Unknown_Vulkan, [0000073E9AAB2BC0][0000073E9AAA2800 50] Oculus_Quest, [0000073E9AAB3100][0000073E9AAD0000 50] Oculus_Quest2, [0000073E9AAB1500][0000073E9AAD5000 50] HoloLens, 
+[2023.11.04-11.36.06:297][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.11.04-11.36.06:324][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.11.04-11.36.06:793][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.11.04-11.36.06:793][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.11.04-11.36.06:793][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.11.04-11.36.06:793][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.11.04-11.36.06:793][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.11.04-11.36.06:816][  0]LogNetVersion: GDP204_PROJECT 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2710090426)
+[2023.11.04-11.36.07:033][  0]LogSlate: Border
+[2023.11.04-11.36.07:033][  0]LogSlate: BreadcrumbButton
+[2023.11.04-11.36.07:033][  0]LogSlate: Default
+[2023.11.04-11.36.07:033][  0]LogSlate: Icons.Save
+[2023.11.04-11.36.07:033][  0]LogSlate: Icons.Toolbar.Settings
+[2023.11.04-11.36.07:033][  0]LogSlate: ListView
+[2023.11.04-11.36.07:033][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.11.04-11.36.07:033][  0]LogSlate: SoftwareCursor_Grab
+[2023.11.04-11.36.07:033][  0]LogSlate: TableView.DarkRow
+[2023.11.04-11.36.07:033][  0]LogSlate: TableView.Row
+[2023.11.04-11.36.07:033][  0]LogSlate: TreeView
+[2023.11.04-11.36.07:479][  0]SourceControl: Source control is disabled
+[2023.11.04-11.36.07:536][  0]SourceControl: Source control is disabled
+[2023.11.04-11.36.07:536][  0]SourceControl: Source control is disabled
+[2023.11.04-11.36.07:742][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.11.04-11.36.07:742][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.11.04-11.36.07:742][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.11.04-11.36.08:419][  0]LogPython: Using Python 3.9.7
+[2023.11.04-11.36.10:117][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 032DA28A4C94E19BAD8F7A9FA2EBF25D | Instance: DA3FBB5E4326356062BA3FA7CB502B17 (DESKTOP-HONS1BD-26492).
+[2023.11.04-11.36.10:269][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.11.04-11.36.10:292][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.11.04-11.36.10:510][  0]SourceControl: Source control is disabled
+[2023.11.04-11.36.10:515][  0]SourceControl: Source control is disabled
+[2023.11.04-11.36.10:532][  0]SourceControl: Source control is disabled
+[2023.11.04-11.36.10:548][  0]LogUProjectInfo: Found projects:
+[2023.11.04-11.36.11:145][  0]LogOpenImageDenoise: OIDN starting up
+[2023.11.04-11.36.11:369][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.11.04-11.36.11:405][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.04-11.36.11:405][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.04-11.36.11:643][  0]LogCollectionManager: Loaded 0 collections in 0.004516 seconds
+[2023.11.04-11.36.11:864][  0]LogFileCache: Scanning file cache for directory 'C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Collections/' took 0.00s
+[2023.11.04-11.36.11:864][  0]LogFileCache: Scanning file cache for directory 'C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Developers/panth/Collections/' took 0.00s
+[2023.11.04-11.36.11:864][  0]LogFileCache: Scanning file cache for directory 'C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Collections/' took 0.00s
+[2023.11.04-11.36.12:766][  0]LogEngine: Initializing Engine...
+[2023.11.04-11.36.12:809][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.11.04-11.36.12:812][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.11.04-11.36.13:646][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.11.04-11.36.13:647][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.04-11.36.13:663][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-11.36.13:713][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.11.04-11.36.13:714][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.11.04-11.36.13:751][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.11.04-11.36.13:752][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.11.04-11.36.13:752][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.11.04-11.36.13:753][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.11.04-11.36.13:753][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.11.04-11.36.13:753][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.04-11.36.13:753][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.04-11.36.13:753][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.04-11.36.13:753][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.04-11.36.13:753][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.04-11.36.13:753][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.04-11.36.13:753][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.04-11.36.13:753][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.04-11.36.13:754][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.04-11.36.13:754][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.04-11.36.13:754][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.04-11.36.13:772][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.04-11.36.13:828][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HD 458BT Stereo)
+[2023.11.04-11.36.13:829][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.04-11.36.13:834][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.04-11.36.13:834][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.04-11.36.13:835][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.11.04-11.36.13:835][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.04-11.36.13:837][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.04-11.36.13:837][  0]LogInit: FAudioDevice initialized.
+[2023.11.04-11.36.13:837][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.11.04-11.36.13:837][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.11.04-11.36.13:837][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.11.04-11.36.13:837][  0]LogInit: Texture streaming: Enabled
+[2023.11.04-11.36.13:895][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.11.04-11.36.13:911][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.11.04-11.36.13:953][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.11.04-11.36.13:966][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.11.04-11.36.13:966][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.11.04-11.36.22:985][  0]LogLiveCoding: Display: First instance in process group "UE_GDP204_PROJECT_0x05ed57d2", spawning console
+[2023.11.04-11.36.22:985][  0]LogLiveCoding: Display: Waiting for server
+[2023.11.04-11.36.22:985][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.11.04-11.36.23:069][  0]LogInit: Transaction tracking system initialized
+[2023.11.04-11.36.23:201][  0]BlueprintLog: New page: Editor Load
+[2023.11.04-11.36.23:563][  0]LocalizationService: Localization service is disabled
+[2023.11.04-11.36.23:649][  0]TimingProfiler: Initialize
+[2023.11.04-11.36.23:649][  0]TimingProfiler: OnSessionChanged
+[2023.11.04-11.36.23:649][  0]LoadingProfiler: Initialize
+[2023.11.04-11.36.23:649][  0]LoadingProfiler: OnSessionChanged
+[2023.11.04-11.36.23:650][  0]NetworkingProfiler: Initialize
+[2023.11.04-11.36.23:650][  0]NetworkingProfiler: OnSessionChanged
+[2023.11.04-11.36.23:650][  0]MemoryProfiler: Initialize
+[2023.11.04-11.36.23:650][  0]MemoryProfiler: OnSessionChanged
+[2023.11.04-11.36.24:995][  0]LogFileCache: Scanning file cache for directory 'C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/' took 0.05s
+[2023.11.04-11.36.24:995][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.11.04-11.36.25:171][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.11.04-11.36.25:174][  0]SourceControl: Source control is disabled
+[2023.11.04-11.36.25:174][  0]LogUnrealEdMisc: Loading editor; pre map load, took 29.730
+[2023.11.04-11.36.25:175][  0]Cmd: MAP LOAD FILE="../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.11.04-11.36.25:175][  0]LightingResults: New page: Lighting Build
+[2023.11.04-11.36.25:188][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-11.36.25:189][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-11.36.25:189][  0]MapCheck: New page: Map Check
+[2023.11.04-11.36.25:189][  0]LightingResults: New page: Lighting Build
+[2023.11.04-11.36.25:206][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.04-11.36.25:354][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.11.04-11.36.25:657][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.11.04-11.36.25:667][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-11.36.25:667][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.04-11.36.25:668][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.04-11.36.25:668][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.11.04-11.36.26:279][  0]LogWorldPartition: Display: WorldPartition initialize took 611 ms
+[2023.11.04-11.36.26:289][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.04-11.36.26:307][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.04-11.36.26:307][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.04-11.36.26:308][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.532ms to complete.
+[2023.11.04-11.36.26:308][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 1.133
+[2023.11.04-11.36.26:332][  0]LogUnrealEdMisc: Total Editor Startup Time, took 30.888
+[2023.11.04-11.36.26:332][  0]LogShaderCompilers: Display: ================================================
+[2023.11.04-11.36.26:332][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.04-11.36.26:332][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.11.04-11.36.26:332][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.11.04-11.36.26:332][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.11.04-11.36.26:332][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.04-11.36.26:332][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.04-11.36.26:332][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.11.04-11.36.26:332][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.04-11.36.26:332][  0]LogShaderCompilers: Display: ================================================
+[2023.11.04-11.36.26:475][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.04-11.36.26:485][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.04-11.36.26:495][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.04-11.36.26:505][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.04-11.36.26:681][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.11.04-11.36.26:681][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.04-11.36.26:691][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.11.04-11.36.26:691][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.04-11.36.26:702][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.11.04-11.36.26:702][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.04-11.36.26:712][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.11.04-11.36.26:712][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.04-11.36.26:731][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.11.04-11.36.26:731][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.04-11.36.26:741][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.11.04-11.36.26:741][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.04-11.36.26:749][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.11.04-11.36.26:749][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.04-11.36.26:759][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.11.04-11.36.26:759][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.04-11.36.26:767][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.11.04-11.36.26:767][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.04-11.36.26:777][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.11.04-11.36.26:777][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.04-11.36.26:777][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.11.04-11.36.27:236][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.11.04-11.36.27:246][  0]LogSlate: Took 0.005774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.11.04-11.36.27:248][  0]LogSlate: Took 0.000380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.11.04-11.36.27:276][  0]LogViewport: Scene viewport resized to 1585x877, mode Windowed.
+[2023.11.04-11.36.28:648][  0]LogStall: Startup...
+[2023.11.04-11.36.28:650][  0]LogStall: Startup complete.
+[2023.11.04-11.36.28:675][  0]LogLoad: (Engine Initialization) Total time: 33.23 seconds
+[2023.11.04-11.36.28:675][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.11.04-11.36.28:789][  0]LogAssetRegistry: Asset discovery search completed in 23.8684 seconds
+[2023.11.04-11.36.28:803][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.11.04-11.36.28:807][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.11.04-11.36.28:875][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.11.04-11.36.33:488][ 18]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.36.34:170][ 50]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/' took 5.40s
+[2023.11.04-11.36.41:365][375]LogSlate: Took 0.006586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.11.04-11.36.41:382][375]LogSlate: Took 0.000649 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.04-11.37.21:608][720]AssetReimport: New page: Outstanding source content changes 9:37:21 am
+[2023.11.04-11.37.21:617][720]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.04-11.37.21:661][721]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/candlestick_mesh.fbx)
+[2023.11.04-11.37.21:705][721]LogFbx: Loading FBX Scene from C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/candlestick_mesh.fbx
+[2023.11.04-11.37.21:719][721]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.04-11.37.25:760][721]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.11.04-11.37.26:061][721]LogStaticMesh: Built static mesh [0.04s] /Game/LevelPrototyping/Meshes/candlestick_mesh.candlestick_mesh
+[2023.11.04-11.37.26:387][722]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/ceiling_mesh.fbx)
+[2023.11.04-11.37.26:396][722]LogFbx: Loading FBX Scene from C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/ceiling_mesh.fbx
+[2023.11.04-11.37.26:404][722]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.04-11.37.27:731][722]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.11.04-11.37.27:777][722]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/ceiling_mesh_pCube1.ceiling_mesh_pCube1
+[2023.11.04-11.37.27:802][722]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/ceiling_mesh_pCube2.ceiling_mesh_pCube2
+[2023.11.04-11.37.27:825][722]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/ceiling_mesh_pCube3.ceiling_mesh_pCube3
+[2023.11.04-11.37.29:413][722]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 3 triangles, ceiling_mesh_pCube1
+[2023.11.04-11.37.30:042][723]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/doorway_mesh.fbx)
+[2023.11.04-11.37.30:052][723]LogFbx: Loading FBX Scene from C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/doorway_mesh.fbx
+[2023.11.04-11.37.30:060][723]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.04-11.37.31:141][723]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.11.04-11.37.31:266][723]LogStaticMesh: Built static mesh [0.04s] /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh
+[2023.11.04-11.37.31:428][724]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 3 triangles, ceiling_mesh_pCube1
+[2023.11.04-11.37.31:432][724]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/pillar_mesh.fbx)
+[2023.11.04-11.37.31:441][724]LogFbx: Loading FBX Scene from C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/pillar_mesh.fbx
+[2023.11.04-11.37.31:448][724]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.04-11.37.32:620][724]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.11.04-11.37.32:711][724]LogStaticMesh: Built static mesh [0.04s] /Game/LevelPrototyping/Meshes/pillar_mesh.pillar_mesh
+[2023.11.04-11.37.33:302][725]LogMeshUtilities: Finished distance field build in 1.9s - 126x14x84 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 91% occupied, 530 triangles, doorway_mesh
+[2023.11.04-11.37.33:305][725]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/table_mesh.fbx)
+[2023.11.04-11.37.33:315][725]LogFbx: Loading FBX Scene from C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/table_mesh.fbx
+[2023.11.04-11.37.33:324][725]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.04-11.37.34:131][725]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.11.04-11.37.34:173][725]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/table_mesh_pPlane1.table_mesh_pPlane1
+[2023.11.04-11.37.34:193][725]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/table_mesh_pCube1.table_mesh_pCube1
+[2023.11.04-11.37.34:209][725]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/table_mesh_pCube2.table_mesh_pCube2
+[2023.11.04-11.37.34:226][725]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/table_mesh_pCube3.table_mesh_pCube3
+[2023.11.04-11.37.34:245][725]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/table_mesh_pCube4.table_mesh_pCube4
+[2023.11.04-11.37.34:262][725]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/table_mesh_pCube5.table_mesh_pCube5
+[2023.11.04-11.37.34:279][725]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/table_mesh_pCube6.table_mesh_pCube6
+[2023.11.04-11.37.35:940][726]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_BaseColor.png)
+[2023.11.04-11.37.36:064][726]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_BaseColor.candlestick_mesh_lambert3_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.36:227][727]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Height.png)
+[2023.11.04-11.37.36:237][727]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Metallic.png)
+[2023.11.04-11.37.36:261][728]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Normal.png)
+[2023.11.04-11.37.36:372][729]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Roughness.png)
+[2023.11.04-11.37.36:439][730]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_BaseColor.png)
+[2023.11.04-11.37.36:548][731]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Height.png)
+[2023.11.04-11.37.36:556][731]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Metallic.png)
+[2023.11.04-11.37.36:629][732]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Normal.png)
+[2023.11.04-11.37.36:762][733]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Roughness.png)
+[2023.11.04-11.37.36:770][733]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_BaseColor.png)
+[2023.11.04-11.37.36:903][733]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Normal.candlestick_mesh_lambert3_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.36:918][734]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Height.png)
+[2023.11.04-11.37.36:927][734]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Metallic.png)
+[2023.11.04-11.37.36:996][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Normal.png)
+[2023.11.04-11.37.37:129][736]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Roughness.png)
+[2023.11.04-11.37.37:138][736]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_BaseColor.png)
+[2023.11.04-11.37.37:268][737]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Height.png)
+[2023.11.04-11.37.37:281][737]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Metallic.png)
+[2023.11.04-11.37.37:348][738]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Normal.png)
+[2023.11.04-11.37.37:480][739]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Roughness.png)
+[2023.11.04-11.37.37:493][739]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_BaseColor.png)
+[2023.11.04-11.37.37:619][740]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Height.png)
+[2023.11.04-11.37.37:633][740]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Metallic.png)
+[2023.11.04-11.37.37:697][741]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Normal.png)
+[2023.11.04-11.37.37:832][742]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Roughness.png)
+[2023.11.04-11.37.37:848][742]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_BaseColor.png)
+[2023.11.04-11.37.38:005][743]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Height.png)
+[2023.11.04-11.37.38:017][743]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Metallic.png)
+[2023.11.04-11.37.38:084][744]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Normal.png)
+[2023.11.04-11.37.38:219][744]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Height.candlestick_mesh_lambert4_Height (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.38:233][745]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Roughness.png)
+[2023.11.04-11.37.38:253][745]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_BaseColor.png)
+[2023.11.04-11.37.38:369][745]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Metallic.candlestick_mesh_lambert4_Metallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.38:387][746]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Height.png)
+[2023.11.04-11.37.38:452][746]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Normal.candlestick_mesh_lambert4_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.38:467][747]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Metallic.png)
+[2023.11.04-11.37.38:481][747]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Normal.png)
+[2023.11.04-11.37.38:638][747]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_BaseColor.candlestick_mesh_lambert5_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.38:653][748]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Roughness.png)
+[2023.11.04-11.37.38:719][748]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Height.candlestick_mesh_lambert5_Height (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.38:737][749]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/table/table_mesh_lambert1_BaseColor.png)
+[2023.11.04-11.37.38:854][750]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/table/table_mesh_lambert1_Height.png)
+[2023.11.04-11.37.38:921][750]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Normal.candlestick_mesh_lambert5_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.38:941][751]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/table/table_mesh_lambert1_Metallic.png)
+[2023.11.04-11.37.38:954][751]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/table/table_mesh_lambert1_Normal.png)
+[2023.11.04-11.37.39:120][751]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_BaseColor.ceiling_mesh_lambert1_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.39:136][752]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/table/table_mesh_lambert1_Roughness.png)
+[2023.11.04-11.37.39:205][752]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Height.ceiling_mesh_lambert1_Height (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.39:317][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Metallic.ceiling_mesh_lambert1_Metallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.39:405][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Normal.ceiling_mesh_lambert1_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.39:498][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.11.04-11.37.39:522][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Roughness.ceiling_mesh_lambert1_Roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.39:576][753]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.008531 seconds
+[2023.11.04-11.37.39:584][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/candlestick_mesh
+[2023.11.04-11.37.39:584][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_meshD09A041941EB9EAF8B017A88D8FE0B58.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/candlestick_mesh.uasset'
+[2023.11.04-11.37.39:623][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/doorway_mesh
+[2023.11.04-11.37.39:623][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/doorway_mesh44D70B9747B16B44C8F118B78FF05E08.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/doorway_mesh.uasset'
+[2023.11.04-11.37.39:644][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_BaseColor.ceiling_mesh_lambert3_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.39:656][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/pillar_mesh
+[2023.11.04-11.37.39:656][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/pillar_mesh3470CE764CBB33AF599902AD80FA1BFF.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/pillar_mesh.uasset'
+[2023.11.04-11.37.39:746][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_BaseColor
+[2023.11.04-11.37.39:746][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert3_BaseCo66F0C2824DB67984BF24A2BC85FA080A.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_BaseColor.uasset'
+[2023.11.04-11.37.39:771][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Height
+[2023.11.04-11.37.39:771][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert3_Height473D93914AE118D4F246EF975ED72382.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Height.uasset'
+[2023.11.04-11.37.39:796][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Height.ceiling_mesh_lambert3_Height (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.39:796][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Metallic
+[2023.11.04-11.37.39:796][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert3_Metall705F7E4346C1DE3D282FC0AFB22D7C5C.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Metallic.uasset'
+[2023.11.04-11.37.39:937][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Metallic.ceiling_mesh_lambert3_Metallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.39:937][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Normal
+[2023.11.04-11.37.39:937][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert3_NormalFB95118E4B6931781E38B2AA6C64915D.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Normal.uasset'
+[2023.11.04-11.37.39:975][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Roughness
+[2023.11.04-11.37.39:975][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert3_Roughn252E63C149EBD1E1F587DA8D68B508AA.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Roughness.uasset'
+[2023.11.04-11.37.40:046][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Normal.ceiling_mesh_lambert3_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.40:046][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_BaseColor
+[2023.11.04-11.37.40:046][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert4_BaseCo30FE9B8744B7E17A967205BFC5054E66.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_BaseColor.uasset'
+[2023.11.04-11.37.40:069][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Height
+[2023.11.04-11.37.40:069][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert4_Height94EF465E408DC8F28CC8D485D4B4696D.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Height.uasset'
+[2023.11.04-11.37.40:096][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Roughness.ceiling_mesh_lambert3_Roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.40:096][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Metallic
+[2023.11.04-11.37.40:096][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert4_MetallB861A5BA422DA3C92AA0BD8173D03B93.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Metallic.uasset'
+[2023.11.04-11.37.40:163][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Normal
+[2023.11.04-11.37.40:163][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert4_NormalA3C8371045B18D7BABEF3B9E52762F0C.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Normal.uasset'
+[2023.11.04-11.37.40:185][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Roughness
+[2023.11.04-11.37.40:185][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert4_Roughn90C6E5494946C5CDCB38CCBA73EAF321.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Roughness.uasset'
+[2023.11.04-11.37.40:255][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_BaseColor.doorway_mesh_lambert1_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.40:255][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_BaseColor
+[2023.11.04-11.37.40:255][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert5_BaseCo4F26130E495D09BCDB60FE9DD1172FBA.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_BaseColor.uasset'
+[2023.11.04-11.37.40:280][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Height
+[2023.11.04-11.37.40:280][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert5_Height085B6F674592E023DCF1179F4124167A.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Height.uasset'
+[2023.11.04-11.37.40:303][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Metallic
+[2023.11.04-11.37.40:304][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert5_Metall894A28BA4F015187E634AA84CA7840FC.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Metallic.uasset'
+[2023.11.04-11.37.40:371][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Normal
+[2023.11.04-11.37.40:371][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert5_Normal5079991C4CCBBE06D77F478697452FE2.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Normal.uasset'
+[2023.11.04-11.37.40:394][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Roughness
+[2023.11.04-11.37.40:394][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/candlestick_mesh_lambert5_Roughn8C28EB424373FA4A9082EA87A94DA728.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Roughness.uasset'
+[2023.11.04-11.37.40:501][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Height.doorway_mesh_lambert1_Height (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.40:504][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_BaseColor
+[2023.11.04-11.37.40:504][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/ceiling_mesh_lambert1_BaseColorD6E37539403ED3442E3B2E91783EF098.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_BaseColor.uasset'
+[2023.11.04-11.37.40:542][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Height
+[2023.11.04-11.37.40:542][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/ceiling_mesh_lambert1_Height394B86C94B1AD096B0179BA075707396.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Height.uasset'
+[2023.11.04-11.37.40:568][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Metallic.doorway_mesh_lambert1_Metallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.40:568][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Metallic
+[2023.11.04-11.37.40:568][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/ceiling_mesh_lambert1_Metallic165AA34D4875580D8B2444B7F6BFEF68.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Metallic.uasset'
+[2023.11.04-11.37.40:698][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Normal.doorway_mesh_lambert1_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.40:698][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Normal
+[2023.11.04-11.37.40:698][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/ceiling_mesh_lambert1_NormalD61F31E1482109D772FA06A52C391932.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Normal.uasset'
+[2023.11.04-11.37.40:736][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Roughness
+[2023.11.04-11.37.40:736][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/ceiling_mesh_lambert1_Roughness027186CB4C30AEE7996091A84FE681BA.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Roughness.uasset'
+[2023.11.04-11.37.40:922][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Roughness.doorway_mesh_lambert1_Roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.40:924][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_BaseColor
+[2023.11.04-11.37.40:925][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/ceiling_mesh_lambert3_BaseColor245D3096468E28C23CB852970B88924A.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_BaseColor.uasset'
+[2023.11.04-11.37.40:935][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_BaseColor.pillar_mesh_lambert1_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.40:963][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Height
+[2023.11.04-11.37.40:963][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/ceiling_mesh_lambert3_Height890AAAEF430BCE915ECF86A9332376C4.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Height.uasset'
+[2023.11.04-11.37.40:986][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Metallic
+[2023.11.04-11.37.40:986][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/ceiling_mesh_lambert3_MetallicE19A601F4054B474AA6252B5B17276B2.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Metallic.uasset'
+[2023.11.04-11.37.41:079][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Normal
+[2023.11.04-11.37.41:079][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/ceiling_mesh_lambert3_Normal03916C6E4DD739D6F7A5C695BF4E30A4.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Normal.uasset'
+[2023.11.04-11.37.41:111][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Roughness
+[2023.11.04-11.37.41:111][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/ceiling_mesh_lambert3_RoughnessED7A7E6446F4E881460FCCA0D774A2F8.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Roughness.uasset'
+[2023.11.04-11.37.41:258][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Height.pillar_mesh_lambert1_Height (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.41:258][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_BaseColor
+[2023.11.04-11.37.41:258][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/doorway_mesh_lambert1_BaseColor05B5DB9E41F8B08DF2817C8219D5AAE3.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_BaseColor.uasset'
+[2023.11.04-11.37.41:301][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Height
+[2023.11.04-11.37.41:301][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/doorway_mesh_lambert1_Height58DA59B24BD51C4B23744CBD524096E7.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Height.uasset'
+[2023.11.04-11.37.41:326][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Metallic
+[2023.11.04-11.37.41:326][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/doorway_mesh_lambert1_Metallic39B4944445B133BE7D07C39213A54A2D.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Metallic.uasset'
+[2023.11.04-11.37.41:390][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Metallic.pillar_mesh_lambert1_Metallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.41:480][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Normal.pillar_mesh_lambert1_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.41:480][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Normal
+[2023.11.04-11.37.41:480][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/doorway_mesh_lambert1_NormalADC76DC943628641444B1895C68F61DB.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Normal.uasset'
+[2023.11.04-11.37.41:527][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Roughness
+[2023.11.04-11.37.41:527][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/doorway_mesh_lambert1_Roughness783F65174A93489B6CB67684101B5BBD.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Roughness.uasset'
+[2023.11.04-11.37.41:717][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Roughness.pillar_mesh_lambert1_Roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.41:720][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_BaseColor
+[2023.11.04-11.37.41:720][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/pillar_mesh_lambert1_BaseColor012ABA8D4AAD5A2C6DCE31A5EC40964E.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_BaseColor.uasset'
+[2023.11.04-11.37.41:782][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Height
+[2023.11.04-11.37.41:782][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/pillar_mesh_lambert1_Height069969FF493C1370D49251A7AE359857.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Height.uasset'
+[2023.11.04-11.37.41:806][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Metallic
+[2023.11.04-11.37.41:807][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/pillar_mesh_lambert1_Metallic10A0D96C4754FAD50D175A9BB243E766.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Metallic.uasset'
+[2023.11.04-11.37.41:986][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_BaseColor.table_mesh_lambert1_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.41:990][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Normal
+[2023.11.04-11.37.41:990][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/pillar_mesh_lambert1_Normal0CA951754038B35077549196E4563506.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Normal.uasset'
+[2023.11.04-11.37.42:049][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Roughness
+[2023.11.04-11.37.42:049][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/pillar_mesh_lambert1_RoughnessA710DC3746FCF66CFCDFE4A8050D6784.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Roughness.uasset'
+[2023.11.04-11.37.42:068][753]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/LevelPrototyping/Textures/table/table_mesh_lambert1_BaseColor) ...
+[2023.11.04-11.37.42:088][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Height.table_mesh_lambert1_Height (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.42:257][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_BaseColor
+[2023.11.04-11.37.42:257][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/table_mesh_lambert1_BaseColorB95133F84F707A0113822AA938805CD9.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/table/table_mesh_lambert1_BaseColor.uasset'
+[2023.11.04-11.37.42:264][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Metallic.table_mesh_lambert1_Metallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.42:317][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Height
+[2023.11.04-11.37.42:317][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/table_mesh_lambert1_Height1968268D45E3F9214FF78BB644B1AE01.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/table/table_mesh_lambert1_Height.uasset'
+[2023.11.04-11.37.42:337][753]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Metallic) ...
+[2023.11.04-11.37.42:390][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Normal.table_mesh_lambert1_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.42:390][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Metallic
+[2023.11.04-11.37.42:390][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/table_mesh_lambert1_Metallic9F16444B40F8D7FA92FFF49D2C32F5A0.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/table/table_mesh_lambert1_Metallic.uasset'
+[2023.11.04-11.37.42:410][753]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Normal) ...
+[2023.11.04-11.37.42:492][753]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Roughness.table_mesh_lambert1_Roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.11.04-11.37.42:650][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Normal
+[2023.11.04-11.37.42:650][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/table_mesh_lambert1_NormalFCE6D16E4903919F7C6ED1A93EFCBD31.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/table/table_mesh_lambert1_Normal.uasset'
+[2023.11.04-11.37.42:670][753]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Roughness) ...
+[2023.11.04-11.37.42:767][753]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Roughness
+[2023.11.04-11.37.42:767][753]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/table_mesh_lambert1_Roughness6F5F4D6C41B4B3669D05DB865A57BEE7.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Textures/table/table_mesh_lambert1_Roughness.uasset'
+[2023.11.04-11.37.42:841][754]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.04-11.37.42:841][754]LogContentValidation: Display: Validating StaticMesh /Game/LevelPrototyping/Meshes/pillar_mesh.pillar_mesh
+[2023.11.04-11.37.42:841][754]LogContentValidation: Display: Validating StaticMesh /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating StaticMesh /Game/LevelPrototyping/Meshes/candlestick_mesh.candlestick_mesh
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_BaseColor.candlestick_mesh_lambert3_BaseColor
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Height.candlestick_mesh_lambert3_Height
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Metallic.candlestick_mesh_lambert3_Metallic
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Normal.candlestick_mesh_lambert3_Normal
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Roughness.candlestick_mesh_lambert3_Roughness
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_BaseColor.candlestick_mesh_lambert4_BaseColor
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Height.candlestick_mesh_lambert4_Height
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Metallic.candlestick_mesh_lambert4_Metallic
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Normal.candlestick_mesh_lambert4_Normal
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Roughness.candlestick_mesh_lambert4_Roughness
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_BaseColor.candlestick_mesh_lambert5_BaseColor
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Height.candlestick_mesh_lambert5_Height
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Metallic.candlestick_mesh_lambert5_Metallic
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Normal.candlestick_mesh_lambert5_Normal
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Roughness.candlestick_mesh_lambert5_Roughness
+[2023.11.04-11.37.42:842][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_BaseColor.ceiling_mesh_lambert1_BaseColor
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Height.ceiling_mesh_lambert1_Height
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Metallic.ceiling_mesh_lambert1_Metallic
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Normal.ceiling_mesh_lambert1_Normal
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Roughness.ceiling_mesh_lambert1_Roughness
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_BaseColor.ceiling_mesh_lambert3_BaseColor
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Height.ceiling_mesh_lambert3_Height
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Metallic.ceiling_mesh_lambert3_Metallic
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Normal.ceiling_mesh_lambert3_Normal
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Roughness.ceiling_mesh_lambert3_Roughness
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_BaseColor.doorway_mesh_lambert1_BaseColor
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Height.doorway_mesh_lambert1_Height
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Metallic.doorway_mesh_lambert1_Metallic
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Normal.doorway_mesh_lambert1_Normal
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Roughness.doorway_mesh_lambert1_Roughness
+[2023.11.04-11.37.42:843][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_BaseColor.pillar_mesh_lambert1_BaseColor
+[2023.11.04-11.37.42:844][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Height.pillar_mesh_lambert1_Height
+[2023.11.04-11.37.42:844][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Metallic.pillar_mesh_lambert1_Metallic
+[2023.11.04-11.37.42:844][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Normal.pillar_mesh_lambert1_Normal
+[2023.11.04-11.37.42:844][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Roughness.pillar_mesh_lambert1_Roughness
+[2023.11.04-11.37.42:844][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_BaseColor.table_mesh_lambert1_BaseColor
+[2023.11.04-11.37.42:844][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Height.table_mesh_lambert1_Height
+[2023.11.04-11.37.42:844][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Metallic.table_mesh_lambert1_Metallic
+[2023.11.04-11.37.42:844][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Normal.table_mesh_lambert1_Normal
+[2023.11.04-11.37.42:844][754]LogContentValidation: Display: Validating Texture2D /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Roughness.table_mesh_lambert1_Roughness
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Meshes/candlestick_mesh.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Meshes/ceiling_mesh.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Meshes/doorway_mesh.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Meshes/pillar_mesh.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Meshes/table_mesh.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_BaseColor.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Height.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Metallic.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Normal.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert3_Roughness.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_BaseColor.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Height.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Metallic.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Normal.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert4_Roughness.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_BaseColor.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Height.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Metallic.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Normal.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/candlestick/candlestick_mesh_lambert5_Roughness.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_BaseColor.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Height.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Metallic.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Normal.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert1_Roughness.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_BaseColor.
+[2023.11.04-11.37.45:818][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Height.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Metallic.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Normal.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/ceiling/ceiling_mesh_lambert3_Roughness.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_BaseColor.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Height.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Metallic.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Normal.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Roughness.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_BaseColor.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Height.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Metallic.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Normal.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_Roughness.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_BaseColor.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Height.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Metallic.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Normal.
+[2023.11.04-11.37.45:819][846]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/table/table_mesh_lambert1_Roughness.
+[2023.11.04-11.38.08:708][341]LogDerivedDataCache: C:/Users/panth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.279 and deleted 0 file(s) with total size 0 MiB.
+[2023.11.04-11.38.10:738][415]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Imported/Meshes/ceiling_mesh_pCube1.ceiling_mesh_pCube1
+[2023.11.04-11.38.10:738][415]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Imported/Meshes/ceiling_mesh_pCube1.ceiling_mesh_pCube1
+[2023.11.04-11.38.10:739][415]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Imported/Meshes/ceiling_mesh_pCube1.ceiling_mesh_pCube1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2023.11.04-11.38.11:806][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Imported/Meshes/ceiling_mesh_pCube1.ceiling_mesh_pCube1
+[2023.11.04-11.38.11:806][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Imported/Meshes/ceiling_mesh_pCube1.ceiling_mesh_pCube1
+[2023.11.04-11.38.11:808][470]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Imported/Meshes/ceiling_mesh_pCube1.ceiling_mesh_pCube1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00E04D1DD00A4AB901_1151691543
+[2023.11.04-11.38.11:987][471]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.38.13:709][548]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.38.16:232][682]Cmd: TRANSACTION UNDO
+[2023.11.04-11.38.16:232][682]LogEditorTransaction: Undo Move Elements
+[2023.11.04-11.38.16:318][683]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.38.16:709][690]Cmd: TRANSACTION UNDO
+[2023.11.04-11.38.16:709][690]LogEditorTransaction: Undo Create Actors
+[2023.11.04-11.38.16:858][691]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.39.08:345][747]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh
+[2023.11.04-11.39.08:345][747]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh
+[2023.11.04-11.39.08:346][747]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_7
+[2023.11.04-11.39.09:080][783]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh
+[2023.11.04-11.39.09:080][783]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh
+[2023.11.04-11.39.09:081][783]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00E04D1DD00A4AB901_1208964544
+[2023.11.04-11.39.09:178][784]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.39.11:665][924]Cmd: TRANSACTION UNDO
+[2023.11.04-11.39.11:665][924]LogEditorTransaction: Undo Create Actors
+[2023.11.04-11.39.11:814][925]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.39.26:328][698]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh
+[2023.11.04-11.39.26:328][698]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh
+[2023.11.04-11.39.26:329][698]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_11
+[2023.11.04-11.39.27:365][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh
+[2023.11.04-11.39.27:365][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh
+[2023.11.04-11.39.27:366][764]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/doorway_mesh.doorway_mesh as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00E04D1DD00A4AB901_1227249545
+[2023.11.04-11.39.27:443][765]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.39.30:798][913]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/pillar_mesh.pillar_mesh
+[2023.11.04-11.39.30:798][913]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/pillar_mesh.pillar_mesh
+[2023.11.04-11.39.30:798][913]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/pillar_mesh.pillar_mesh as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_39
+[2023.11.04-11.39.32:160][999]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/pillar_mesh.pillar_mesh
+[2023.11.04-11.39.32:161][999]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/pillar_mesh.pillar_mesh
+[2023.11.04-11.39.32:162][999]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/pillar_mesh.pillar_mesh as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00E04D1DD00A4AB901_1232045546
+[2023.11.04-11.39.32:237][  0]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.39.41:690][514]LogMaterial: Display: Missing cached shadermap for pillar_mesh_lambert1_BaseColor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F58D086A0310894C55D35BF15CF7BDF32959F782), compiling. 
+[2023.11.04-11.39.41:729][514]LogMaterial: Display: Missing cached shadermap for pillar_mesh_lambert1_Height_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0B7132401D34009ABD8713F0ED5A899100FB70FD), compiling. 
+[2023.11.04-11.39.41:782][514]LogMaterial: Display: Missing cached shadermap for pillar_mesh_lambert1_Metallic_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 34F2913343A3A5C7BA91A22C511BCD6E92EB8C45), compiling. 
+[2023.11.04-11.39.41:845][514]LogMaterial: Display: Missing cached shadermap for pillar_mesh_lambert1_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B1CB579667A5555BF3B3674F3B1354DB5B46ED2C), compiling. 
+[2023.11.04-11.39.41:880][514]LogMaterial: Display: Missing cached shadermap for pillar_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5120B8FAFA8431E66377404195B36054D4D9AA5E), compiling. 
+[2023.11.04-11.39.44:138][569]LogShaderCompilers: Display: ================================================
+[2023.11.04-11.39.44:138][569]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.04-11.39.44:138][569]LogShaderCompilers: Display: Total job queries 48, among them cache hits 0 (0.00%)
+[2023.11.04-11.39.44:138][569]LogShaderCompilers: Display: Tracking 30 distinct input hashes that result in 17 distinct outputs (56.67%)
+[2023.11.04-11.39.44:138][569]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.11.04-11.39.44:138][569]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.04-11.39.44:138][569]LogShaderCompilers: Display: Shaders Compiled: 32
+[2023.11.04-11.39.44:138][569]LogShaderCompilers: Display: Jobs assigned 33, completed 30 (90.91%)
+[2023.11.04-11.39.44:138][569]LogShaderCompilers: Display: Average time worker was idle: 20.24 s
+[2023.11.04-11.39.44:139][569]LogShaderCompilers: Display: Time job spent in pending queue: average 1.57 s, longest 7.91 s
+[2023.11.04-11.39.44:139][569]LogShaderCompilers: Display: Job execution time: average 7.86 s, max 14.51 s
+[2023.11.04-11.39.44:139][569]LogShaderCompilers: Display: Job life time (pending + execution): average 9.42 s, max 14.51
+[2023.11.04-11.39.44:139][569]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.22 s
+[2023.11.04-11.39.44:139][569]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.65 jobs/batch
+[2023.11.04-11.39.44:139][569]LogShaderCompilers: Display: Average processing rate: 1.19 jobs/sec
+[2023.11.04-11.39.44:139][569]LogShaderCompilers: Display: Effective parallelization: 2.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2023.11.04-11.39.44:139][569]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.04-11.39.44:139][569]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 3.53 sec, max 3.53 sec, min 3.53 sec)
+[2023.11.04-11.39.44:140][569]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 3.29 sec, max 3.29 sec, min 3.29 sec)
+[2023.11.04-11.39.44:140][569]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 2.92 sec, max 2.92 sec, min 2.92 sec)
+[2023.11.04-11.39.44:140][569]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.43 sec, max 2.43 sec, min 2.43 sec)
+[2023.11.04-11.39.44:140][569]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 2.33 sec, max 2.33 sec, min 2.33 sec)
+[2023.11.04-11.39.44:140][569]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.04-11.39.44:140][569]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.87% of total time (compiled    5 times, average 2.25 sec, max 2.71 sec, min 1.78 sec)
+[2023.11.04-11.39.44:140][569]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.80% of total time (compiled    5 times, average 2.24 sec, max 2.70 sec, min 1.86 sec)
+[2023.11.04-11.39.44:140][569]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.48% of total time (compiled    4 times, average 2.28 sec, max 2.60 sec, min 1.84 sec)
+[2023.11.04-11.39.44:140][569]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.60% of total time (compiled    1 times, average 3.53 sec, max 3.53 sec, min 3.53 sec)
+[2023.11.04-11.39.44:140][569]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.22% of total time (compiled    1 times, average 3.29 sec, max 3.29 sec, min 3.29 sec)
+[2023.11.04-11.39.44:140][569]LogShaderCompilers: Display: ================================================
+[2023.11.04-11.39.52:886][926]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.682 seconds, threshold is 0.300 s), will parallelize next time.
+[2023.11.04-11.40.47:219][124]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_BaseColor_Mat.pillar_mesh_lambert1_BaseColor_Mat
+[2023.11.04-11.40.47:224][124]LogMaterial: Display: Missing cached shadermap for Preview:pillar_mesh_lambert1_BaseColor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 93D67111D69EBE32CBF170651F64E5F4C7A27256), compiling. 
+[2023.11.04-11.40.47:255][124]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-11.40.47:308][124]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2023.11.04-11.40.47:379][124]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.11.04-11.40.47:555][124]LogMaterial: Display: Missing cached shadermap for Preview:pillar_mesh_lambert1_BaseColor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5509C3CED55B7650BD9CC7E774B941FDF71ADCF6), compiling. 
+[2023.11.04-11.40.47:565][124]LogMaterial: Display: Missing cached shadermap for Preview:pillar_mesh_lambert1_BaseColor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0788ADBBD71437AE5CE1AE057A62A7E17F1B4F18), compiling. 
+[2023.11.04-11.40.47:570][124]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B37B5BA2EEC89302719E4F010318EB17B5F3405), compiling. 
+[2023.11.04-11.40.47:607][124]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.04-11.40.47:607][124]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.11.04-11.40.47:607][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.40.47:607][124]MaterialEditorStats: Shader Count: 0
+[2023.11.04-11.40.47:618][124]LogSlate: Took 0.000453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.11.04-11.40.47:623][124]LogViewport: Scene viewport resized to 216x217, mode Windowed.
+[2023.11.04-11.40.47:806][126]MaterialEditorStats: Texture samplers: 3/16
+[2023.11.04-11.40.47:806][126]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.11.04-11.40.47:806][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.40.47:806][126]MaterialEditorStats: Shader Count: 4
+[2023.11.04-11.40.55:728][405]LogSlate: Window 'pillar_mesh_lambert1_BaseColor_Mat' being destroyed
+[2023.11.04-11.40.55:735][405]LogSlate: Window 'pillar_mesh_lambert1_BaseColor_Mat' being destroyed
+[2023.11.04-11.40.55:745][405]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-11.40.55:745][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-11.40.56:647][449]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/pillar_mesh.pillar_mesh
+[2023.11.04-11.40.56:729][449]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-11.40.57:313][449]LogViewport: Scene viewport resized to 817x438, mode Windowed.
+[2023.11.04-11.41.04:061][688]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.41.06:173][709]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.41.12:049][889]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/pillar_mesh
+[2023.11.04-11.41.12:051][889]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/pillar_mesh96AE0B894672C9F5CF50358A3B30E9E1.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/pillar_mesh.uasset'
+[2023.11.04-11.41.12:071][889]AssetCheck: New page: Asset Save: pillar_mesh
+[2023.11.04-11.41.12:071][889]LogContentValidation: Display: Validating StaticMesh /Game/LevelPrototyping/Meshes/pillar_mesh.pillar_mesh
+[2023.11.04-11.41.28:176][649]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/pillar_mesh
+[2023.11.04-11.41.28:178][649]LogSavePackage: Moving '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/pillar_meshAA8E6C4B4A6711BBB706C6BFD4A5A414.tmp' to '../../../../../../Users/panth/OneDrive/Documents/GitHub/GDP204/GDP204_PROJECT/Content/LevelPrototyping/Meshes/pillar_mesh.uasset'
+[2023.11.04-11.41.28:195][649]AssetCheck: New page: Asset Save: pillar_mesh
+[2023.11.04-11.41.28:195][649]LogContentValidation: Display: Validating StaticMesh /Game/LevelPrototyping/Meshes/pillar_mesh.pillar_mesh
+[2023.11.04-11.41.29:006][679]LogSlate: Window 'pillar_mesh' being destroyed
+[2023.11.04-11.41.29:014][679]LogSlate: Window 'pillar_mesh' being destroyed
+[2023.11.04-11.41.29:081][679]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-11.41.29:081][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-11.41.54:377][991]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Textures/pillar/pillar_mesh_lambert1_BaseColor_Mat.pillar_mesh_lambert1_BaseColor_Mat
+[2023.11.04-11.41.54:380][991]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F6FD8845CE8D01C3A3BE7BE22EEC12F735FA8C4B), compiling. 
+[2023.11.04-11.41.54:413][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-11.41.54:567][991]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 619191F264A8D5E730EFAA3820C8DD850061EF6C), compiling. 
+[2023.11.04-11.41.54:574][991]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 07B7DD757F4E8056CCF50C23971C7292B2D503AF), compiling. 
+[2023.11.04-11.41.54:577][991]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4F4FEBA0797F081D3925C1CB7C528BC453C67025), compiling. 
+[2023.11.04-11.41.54:614][991]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.04-11.41.54:614][991]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.11.04-11.41.54:614][991]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.41.54:614][991]MaterialEditorStats: Shader Count: 0
+[2023.11.04-11.41.54:623][991]LogViewport: Scene viewport resized to 216x217, mode Windowed.
+[2023.11.04-11.41.56:316][ 43]LogSlate: Window 'pillar_mesh_lambert1_BaseColor_Mat' being destroyed
+[2023.11.04-11.41.56:330][ 43]LogSlate: Window 'pillar_mesh_lambert1_BaseColor_Mat' being destroyed
+[2023.11.04-11.41.56:341][ 43]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-11.41.56:342][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-11.42.01:107][309]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.42.03:246][423]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.42.05:254][546]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.42.07:123][657]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.42.11:051][910]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.42.33:132][ 61]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/pillar_mesh.pillar_mesh
+[2023.11.04-11.42.33:191][ 61]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-11.42.33:737][ 61]LogViewport: Scene viewport resized to 817x438, mode Windowed.
+[2023.11.04-11.42.39:073][257]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.11.04-11.43.00:151][250]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.43.08:014][613]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.04-11.43.15:372][862]LogViewport: Scene viewport resized to 817x438, mode Windowed.
+[2023.11.04-11.43.17:141][916]LogSlate: Window 'pillar_mesh' being destroyed
+[2023.11.04-11.43.17:148][916]LogSlate: Window 'pillar_mesh' being destroyed
+[2023.11.04-11.43.17:204][916]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-11.43.17:204][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-11.43.26:023][335]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Meshes/lambert1.lambert1
+[2023.11.04-11.43.26:025][335]LogMaterial: Display: Missing cached shadermap for Preview:lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: B60F44A54534AFB3727CC8ADABB01BD04C16C9C7), compiling. 
+[2023.11.04-11.43.26:051][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: ================================================
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Total job queries 102, among them cache hits 20 (19.61%)
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Tracking 54 distinct input hashes that result in 21 distinct outputs (38.89%)
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Shaders Compiled: 70
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Jobs assigned 54, completed 54 (100.00%)
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Average time worker was idle: 18.40 s
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Time job spent in pending queue: average 2.94 s, longest 11.90 s
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Job execution time: average 5.33 s, max 14.51 s
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Job life time (pending + execution): average 8.28 s, max 14.51
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 43.82 s
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Jobs were issued in 41 batches (only local compilation was used), average 1.32 jobs/batch
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Average processing rate: 1.23 jobs/sec
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Effective parallelization: 2.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 3.53 sec, max 3.53 sec, min 3.53 sec)
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 3.29 sec, max 3.29 sec, min 3.29 sec)
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 2.92 sec, max 2.92 sec, min 2.92 sec)
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.43 sec, max 2.43 sec, min 2.43 sec)
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 2.33 sec, max 2.33 sec, min 2.33 sec)
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.04-11.43.26:053][335]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.02% of total time (compiled   11 times, average 2.23 sec, max 3.41 sec, min 1.69 sec)
+[2023.11.04-11.43.26:054][335]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.53% of total time (compiled   11 times, average 2.18 sec, max 3.18 sec, min 1.44 sec)
+[2023.11.04-11.43.26:054][335]LogShaderCompilers: Display:                                                 FLumenCardVS - 21.06% of total time (compiled   10 times, average 2.24 sec, max 3.33 sec, min 1.72 sec)
+[2023.11.04-11.43.26:054][335]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.43% of total time (compiled   10 times, average 0.69 sec, max 0.77 sec, min 0.59 sec)
+[2023.11.04-11.43.26:054][335]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.32% of total time (compiled    1 times, average 3.53 sec, max 3.53 sec, min 3.53 sec)
+[2023.11.04-11.43.26:054][335]LogShaderCompilers: Display: ================================================
+[2023.11.04-11.43.26:189][335]LogMaterial: Display: Missing cached shadermap for Preview:lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D7F492C25E3A48F8D115C822F268F31BABA10D8), compiling. 
+[2023.11.04-11.43.26:195][335]LogMaterial: Display: Missing cached shadermap for Preview:lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: A2F7C13228F92F3059F67915A9A384DF98FDEC27), compiling. 
+[2023.11.04-11.43.26:198][335]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A3080F7727005335558F1F3238914FEE6907E7BD), compiling. 
+[2023.11.04-11.43.26:234][335]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.04-11.43.26:234][335]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.04-11.43.26:234][335]MaterialEditorStats: Shader Count: 0
+[2023.11.04-11.43.26:245][335]LogViewport: Scene viewport resized to 216x217, mode Windowed.
+[2023.11.04-11.43.26:534][337]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.04-11.43.26:534][337]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.04-11.43.26:534][337]MaterialEditorStats: Shader Count: 4
+[2023.11.04-11.43.35:487][622]LogSlate: Window 'lambert1' being destroyed
+[2023.11.04-11.43.35:496][622]LogSlate: Window 'lambert1' being destroyed
+[2023.11.04-11.43.35:506][622]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-11.43.35:506][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-11.43.48:141][329]LogMaterial: Display: Missing cached shadermap for doorway_mesh_lambert1_BaseColor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 004ABC01C55CF971756F9CEEF07BE8AF67ECB08A), compiling. 
+[2023.11.04-11.43.48:169][329]LogMaterial: Display: Missing cached shadermap for doorway_mesh_lambert1_Height_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5DA1A85F36BDB1B0FEC0E23F7EB60F13077E0043), compiling. 
+[2023.11.04-11.43.48:224][329]LogMaterial: Display: Missing cached shadermap for doorway_mesh_lambert1_Metallic_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4B3E362F06EE0B2A1BC904493A1CD3ACF2192105), compiling. 
+[2023.11.04-11.43.48:290][329]LogMaterial: Display: Missing cached shadermap for doorway_mesh_lambert1_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6549F9DFD272001C8B9544E522091F7706FBA8D7), compiling. 
+[2023.11.04-11.43.48:324][329]LogMaterial: Display: Missing cached shadermap for doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 62240314D720161FDA7D28033CC755227C319209), compiling. 
+[2023.11.04-11.44.05:999][ 18]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Textures/doorway/doorway_mesh_lambert1_Roughness_Mat.doorway_mesh_lambert1_Roughness_Mat
+[2023.11.04-11.44.06:002][ 18]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 914917CA83B42D2FD34AD2D6EAB6D51C8A08F5EA), compiling. 
+[2023.11.04-11.44.06:029][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-11.44.06:177][ 18]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E9C41304AED1E0D2CF677CF5D032A38A500677BF), compiling. 
+[2023.11.04-11.44.06:184][ 18]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3F1869BED8A2424B6A089E8EC7B6B5A3BB9D9460), compiling. 
+[2023.11.04-11.44.06:187][ 18]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 77BB57579AC3A7CB5381F3F939E722066CA69822), compiling. 
+[2023.11.04-11.44.06:221][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.04-11.44.06:221][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.11.04-11.44.06:221][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.44.06:221][ 18]MaterialEditorStats: Shader Count: 0
+[2023.11.04-11.44.06:231][ 18]LogViewport: Scene viewport resized to 216x217, mode Windowed.
+[2023.11.04-11.44.06:337][ 20]MaterialEditorStats: Texture samplers: 3/16
+[2023.11.04-11.44.06:337][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.11.04-11.44.06:337][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.44.06:337][ 20]MaterialEditorStats: Shader Count: 4
+[2023.11.04-11.44.14:736][357]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2023.11.04-11.44.21:326][665]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: DAE9BCB0091C49FEDA0E550A7CC8FE3AE7D09562), compiling. 
+[2023.11.04-11.44.21:330][665]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 18664F214A38024B375ABC952FEEC016445197E1), compiling. 
+[2023.11.04-11.44.21:333][665]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AA942A8797B6C2201548AB04419CEFE1CA43EB89), compiling. 
+[2023.11.04-11.44.21:335][665]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 478678F0081628F403DA0BE396EC23039BDA4D66), compiling. 
+[2023.11.04-11.44.24:874][815]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2F6D0CB67A72AB3936F8BE133EBB2513415ED8D3), compiling. 
+[2023.11.04-11.44.24:877][815]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A092677D781B13D512B8CFEB7F340B4A69E6FF3), compiling. 
+[2023.11.04-11.44.24:882][815]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.04-11.44.24:882][815]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.11.04-11.44.24:882][815]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.44.24:882][815]MaterialEditorStats: Shader Count: 0
+[2023.11.04-11.44.27:761][899]MaterialEditorStats: Texture samplers: 3/16
+[2023.11.04-11.44.27:761][899]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.11.04-11.44.27:762][899]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.44.27:762][899]MaterialEditorStats: Shader Count: 1
+[2023.11.04-11.44.28:193][909]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 19BDEF9DC7110ECD62AEFCB638E5686FBCEF3DBC), compiling. 
+[2023.11.04-11.44.29:519][967]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.04-11.44.29:519][967]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.11.04-11.44.29:519][967]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.44.29:519][967]MaterialEditorStats: Shader Count: 0
+[2023.11.04-11.44.30:657][996]MaterialEditorStats: Texture samplers: 3/16
+[2023.11.04-11.44.30:657][996]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.11.04-11.44.30:657][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.44.30:657][996]MaterialEditorStats: Shader Count: 2
+[2023.11.04-11.44.33:078][ 87]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: DBFD1A32AFF639BA2A90FBAB83DB7C820A493A0A), compiling. 
+[2023.11.04-11.44.33:082][ 87]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A524FC129C1883209D2049F32044017A40572D7), compiling. 
+[2023.11.04-11.44.33:085][ 87]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 89F4A10BB823F57D2C8F83661D9BDD74FC563AD6), compiling. 
+[2023.11.04-11.44.33:087][ 87]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8203DB73F57FE14AA3B39D55A1757F584AECCC87), compiling. 
+[2023.11.04-11.44.46:618][859]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B597128F803492BA7477633104FFA904C3F6E869), compiling. 
+[2023.11.04-11.44.46:622][859]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C2CAD637A84374E5E5BB5E9AF600B833B8F4F53), compiling. 
+[2023.11.04-11.44.46:628][859]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.04-11.44.46:628][859]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.11.04-11.44.46:628][859]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.44.46:628][859]MaterialEditorStats: Shader Count: 0
+[2023.11.04-11.44.49:672][954]MaterialEditorStats: Texture samplers: 4/16
+[2023.11.04-11.44.49:672][954]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.11.04-11.44.49:672][954]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.44.49:673][954]MaterialEditorStats: Shader Count: 3
+[2023.11.04-11.44.54:543][123]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 812F96CE4F08CF5637241A687F8283FC432CD417), compiling. 
+[2023.11.04-11.44.54:546][123]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 11216E6788B2D9455A7A1C016A53316380A380D6), compiling. 
+[2023.11.04-11.44.54:549][123]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0E8C3FDF0572DA44C6F5A5AA4A6FAFDDB1B9C6B5), compiling. 
+[2023.11.04-11.44.54:551][123]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A30FB23E73B1240383ED526EB6A5BB7467E8A2E0), compiling. 
+[2023.11.04-11.44.54:554][123]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 7ADD2ED58A26438A3891995480A014B7F1368998), compiling. 
+[2023.11.04-11.44.56:994][209]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: BBF37215A5447BF60D2445DF900129D069D17963), compiling. 
+[2023.11.04-11.44.56:998][209]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: E2E6DF8AD3A95BD546156860EB213A6675030E1A), compiling. 
+[2023.11.04-11.44.57:004][209]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.04-11.44.57:004][209]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.11.04-11.44.57:004][209]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.44.57:004][209]MaterialEditorStats: Shader Count: 0
+[2023.11.04-11.45.00:112][310]MaterialEditorStats: Texture samplers: 5/16
+[2023.11.04-11.45.00:112][310]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.11.04-11.45.00:112][310]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.45.00:112][310]MaterialEditorStats: Shader Count: 3
+[2023.11.04-11.45.06:640][558]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 146F21D745A5B97984244F1C0A4ECBA757955E7C), compiling. 
+[2023.11.04-11.45.06:644][558]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A05BFBD4EA75230BD10A7F4FB7ADF35727ACB6E), compiling. 
+[2023.11.04-11.45.06:647][558]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 103A755D25C84C69CE01ACA023CA7F3F056F73D5), compiling. 
+[2023.11.04-11.45.06:650][558]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8B5863EB517BF3FDC8B19F9E3CA95C7753A0769D), compiling. 
+[2023.11.04-11.45.06:652][558]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 36BE3AFDD9E86F577639F50FFB0931A8193EB7FB), compiling. 
+[2023.11.04-11.45.06:655][558]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: AF1FD374C6516F9C5FFED7C5DBB7BD9347AD8347), compiling. 
+[2023.11.04-11.45.09:618][668]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9302374782D963C4D4EE4E66F28E1A7AF55CB1E5), compiling. 
+[2023.11.04-11.45.09:621][668]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 12718C1B54C9B43106E858ED568F927F74EB63A1), compiling. 
+[2023.11.04-11.45.09:627][668]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.04-11.45.09:627][668]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.11.04-11.45.09:627][668]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.45.09:627][668]MaterialEditorStats: Shader Count: 0
+[2023.11.04-11.45.13:750][812]MaterialEditorStats: Texture samplers: 5/16
+[2023.11.04-11.45.13:750][812]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.11.04-11.45.13:750][812]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.45.13:750][812]MaterialEditorStats: Shader Count: 4
+[2023.11.04-11.45.16:965][930]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 187816C87495BD126080198F33417A13FB9BE8F0), compiling. 
+[2023.11.04-11.45.16:969][930]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: E2382EA1531B7BB734F1F9694A227F5111FCE0E1), compiling. 
+[2023.11.04-11.45.16:972][930]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4960225D4550A1057CB341A0708DF86907875923), compiling. 
+[2023.11.04-11.45.16:975][930]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 13F55BB5486627F37F888A1ED60B053F8CD88D02), compiling. 
+[2023.11.04-11.45.16:977][930]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F4AB98AD10E32001A2E3D9406C48F5391B9839A), compiling. 
+[2023.11.04-11.45.16:980][930]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: CE059DF624D7528505F2D388C5EE717A288A25ED), compiling. 
+[2023.11.04-11.45.16:982][930]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C488EAF327AE95841A148103D56F2196AE452CE), compiling. 
+[2023.11.04-11.45.19:304][ 12]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3ED8D5EA4E17981F8486BD3993D11D8033167546), compiling. 
+[2023.11.04-11.45.19:307][ 12]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 2180692B752412682FC8DC5C23EF70436B8F5A7B), compiling. 
+[2023.11.04-11.45.19:312][ 12]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.04-11.45.19:313][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.11.04-11.45.19:313][ 12]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.45.19:313][ 12]MaterialEditorStats: Shader Count: 0
+[2023.11.04-11.45.21:993][ 97]MaterialEditorStats: Texture samplers: 6/16
+[2023.11.04-11.45.21:993][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.11.04-11.45.21:993][ 97]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.45.21:993][ 97]MaterialEditorStats: Shader Count: 2
+[2023.11.04-11.45.23:327][140]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 823BCA5D96DCB6CF56DC7B5BA945FF3A4C58AD6A), compiling. 
+[2023.11.04-11.45.23:331][140]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.04-11.45.23:331][140]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.11.04-11.45.23:331][140]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.45.23:331][140]MaterialEditorStats: Shader Count: 0
+[2023.11.04-11.45.26:089][220]MaterialEditorStats: Texture samplers: 6/16
+[2023.11.04-11.45.26:089][220]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.11.04-11.45.26:089][220]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.11.04-11.45.26:089][220]MaterialEditorStats: Shader Count: 1
+[2023.11.04-11.45.34:040][515]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F0104650D2387E9B42326529A703566B26904D50), compiling. 
+[2023.11.04-11.45.34:044][515]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_6 in PCD3D_SM5, Default, SM5 (DDC key hash: B22F28AC745D37CE6455AB1ED74B02A028888AFE), compiling. 
+[2023.11.04-11.45.34:047][515]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CAAAD2239B17E37E3A7F4629AA07E7D453168711), compiling. 
+[2023.11.04-11.45.34:049][515]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 1418DBC3EE1BAC3DFF8DD16A1D7DEE5A7C04CD83), compiling. 
+[2023.11.04-11.45.34:052][515]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A4751988B6C95381C5E78F327E4478FFE786938), compiling. 
+[2023.11.04-11.45.34:055][515]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: A9967D4D501450A9FF86996EA961318CC0FC715B), compiling. 
+[2023.11.04-11.45.34:058][515]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_6 in PCD3D_SM5, Default, SM5 (DDC key hash: D5C44221138FB0F9B73F5C1FAC15981B873B1313), compiling. 
+[2023.11.04-11.46.04:638][696]LogMaterialEditor: Applying material doorway_mesh_lambert1_Roughness_Mat
+[2023.11.04-11.46.05:255][696]LogMaterial: Display: Missing cached shadermap for Preview:doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AB8D8CAE2168BDF3BC861885B244B73FD1784131), compiling. 
+[2023.11.04-11.46.05:271][696]LogMaterial: Display: Missing cached shadermap for doorway_mesh_lambert1_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 68AF7F6192B8FF4130DB4E8BF0CEC40F217E845A), compiling. 
+[2023.11.04-11.46.05:294][696]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00E04D1DD00A4AB901_1208964544 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/TL/KDQWBZCI1IWL3POVDH2JDR.PackageMetaData in its package
+[2023.11.04-11.46.05:294][696]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00E04D1DD00A4AB901_1151691543 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/4R/7Z8FH83F4RM5E0GM5ZMMDI.PackageMetaData in its package
+[2023.11.04-11.46.05:345][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.11.04-11.46.07:325][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.11.04-11.46.07:351][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.11.04-11.46.08:073][723]LogMaterialEditor: Saving and Compiling material doorway_mesh_lambert1_Roughness_Mat
