@@ -1,0 +1,991 @@
+﻿Log file open, 11/28/23 13:18:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=18764)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GDP204_PROJECT
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/GDP204_PROJECT.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.3693] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 3800X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="f8d1acff415c72aac017a2b468f601b6"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.243655
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:30, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-367FD1D047BB0D29EEBE368101232DEC
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.3693] (), CPU: AMD Ryzen 7 3800X 8-Core Processor             , GPU: AMD Radeon RX 6600 XT
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.11.28-02.48.28:310][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.11.28-02.48.28:310][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.11.28-02.48.28:310][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.11.28-02.48.28:311][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.11.28-02.48.28:322][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.11.28-02.48.28:322][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.11.28-02.48.28:322][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.11.28-02.48.28:322][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.11.28-02.48.28:322][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.11.28-02.48.28:322][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.11.28-02.48.28:322][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.11.28-02.48.28:322][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.11.28-02.48.28:322][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.11.28-02.48.28:322][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.11.28-02.48.28:322][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.11.28-02.48.28:352][  0]LogD3D12RHI: Aftermath initialized
+[2023.11.28-02.48.28:352][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.11.28-02.48.28:651][  0]LogD3D12RHI: Found D3D12 adapter 0: AMD Radeon RX 6600 XT (Max supported Feature Level 12_1, shader model 6.6)
+[2023.11.28-02.48.28:651][  0]LogD3D12RHI: Adapter has 8147MB of dedicated video memory, 0MB of dedicated system memory, and 16352MB of shared system memory, 3 output[s]
+[2023.11.28-02.48.28:664][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.11.28-02.48.28:664][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16352MB of shared system memory, 0 output[s]
+[2023.11.28-02.48.28:665][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.11.28-02.48.28:666][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.11.28-02.48.28:666][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.11.28-02.48.28:666][  0]LogHAL: Display: Platform has ~ 32 GB [34293010432 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.11.28-02.48.28:666][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.11.28-02.48.28:666][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.11.28-02.48.28:666][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.11.28-02.48.28:666][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.11.28-02.48.28:666][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Config/WindowsEditor/Editor.ini]
+[2023.11.28-02.48.28:666][  0]LogInit: Computer: DESKTOP-OHU6NCQ
+[2023.11.28-02.48.28:666][  0]LogInit: User: fraze
+[2023.11.28-02.48.28:666][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.11.28-02.48.28:666][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.11.28-02.48.28:666][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.11.28-02.48.28:666][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.11.28-02.48.28:666][  0]LogMemory: Process Physical Memory: 284.36 MB used, 380.57 MB peak
+[2023.11.28-02.48.28:666][  0]LogMemory: Process Virtual Memory: 268.65 MB used, 330.43 MB peak
+[2023.11.28-02.48.28:666][  0]LogMemory: Physical Memory: 11027.06 MB used,  21677.30 MB free, 32704.36 MB total
+[2023.11.28-02.48.28:666][  0]LogMemory: Virtual Memory: 16685.14 MB used,  20883.22 MB free, 37568.36 MB total
+[2023.11.28-02.48.28:666][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.11.28-02.48.28:671][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.11.28-02.48.28:683][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.11.28-02.48.28:683][  0]LogInit: Using OS detected language (en-US).
+[2023.11.28-02.48.28:683][  0]LogInit: Using OS detected locale (en-AU).
+[2023.11.28-02.48.28:690][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.11.28-02.48.28:831][  0]LogInit: Setting process to per monitor DPI aware
+[2023.11.28-02.48.28:842][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.11.28-02.48.28:842][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.11.28-02.48.28:842][  0]LogWindowsTextInputMethodSystem:   - English (Australia) - (Keyboard).
+[2023.11.28-02.48.28:842][  0]LogWindowsTextInputMethodSystem:   - English (Australia) - Touch Input Correction (TSF IME).
+[2023.11.28-02.48.28:842][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.11.28-02.48.28:868][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.11.28-02.48.28:868][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.11.28-02.48.29:044][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.11.28-02.48.29:044][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.11.28-02.48.29:111][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.11.28-02.48.29:131][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.11.28-02.48.29:132][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.11.28-02.48.29:134][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.11.28-02.48.29:153][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.11.28-02.48.29:153][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.11.28-02.48.29:199][  0]LogD3D12RHI: AMD hit token extension is supported
+[2023.11.28-02.48.29:199][  0]LogD3D12RHI:     GPU DeviceId: 0x73ff (for the marketing name, search the web for "GPU Device Id")
+[2023.11.28-02.48.29:199][  0]LogWindows: Attached monitors:
+[2023.11.28-02.48.29:199][  0]LogWindows:     resolution: 1920x1080, work area: (-1920, 0) -> (0, 1040), device: '\\.\DISPLAY1'
+[2023.11.28-02.48.29:199][  0]LogWindows:     resolution: 1920x1080, work area: (15, -1080) -> (1935, -40), device: '\\.\DISPLAY2'
+[2023.11.28-02.48.29:199][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY3' [PRIMARY]
+[2023.11.28-02.48.29:199][  0]LogWindows: Found 3 attached monitors.
+[2023.11.28-02.48.29:199][  0]LogWindows: EnumDisplayDevices:
+[2023.11.28-02.48.29:199][  0]LogWindows:    0. 'AMD Radeon RX 6600 XT' (P:0 D:1), name: '\\.\DISPLAY1'
+[2023.11.28-02.48.29:199][  0]LogWindows:    1. 'AMD Radeon RX 6600 XT' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.11.28-02.48.29:200][  0]LogWindows:    2. 'AMD Radeon RX 6600 XT' (P:1 D:1), name: '\\.\DISPLAY3'
+[2023.11.28-02.48.29:200][  0]LogWindows:    3. 'AMD Radeon RX 6600 XT' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.11.28-02.48.29:200][  0]LogWindows:    4. 'AMD Radeon RX 6600 XT' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.11.28-02.48.29:201][  0]LogWindows:    5. 'AMD Radeon RX 6600 XT' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.11.28-02.48.29:201][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2023.11.28-02.48.29:201][  0]LogD3D12RHI:     Adapter Name: AMD Radeon RX 6600 XT
+[2023.11.28-02.48.29:201][  0]LogD3D12RHI:   Driver Version: AMD Software: Adrenalin Edition 22.5.1 (internal:30.0.15021.11005, unified:30.0.15021.11005)
+[2023.11.28-02.48.29:201][  0]LogD3D12RHI:      Driver Date: 4-28-2022
+[2023.11.28-02.48.29:201][  0]LogRHI: Texture pool is 4648 MB (70% of 6641 MB)
+[2023.11.28-02.48.29:201][  0]LogD3D12RHI: Async texture creation enabled
+[2023.11.28-02.48.29:201][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.11.28-02.48.29:219][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/GDP204_PROJECT.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/TurnkeyReport_0.log" -log="C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/TurnkeyLog_0.log" -project="C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/GDP204_PROJECT.uproject"  -platform=all'
+[2023.11.28-02.48.29:219][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/GDP204_PROJECT.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/TurnkeyReport_0.log" -log="C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/TurnkeyLog_0.log" -project="C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/GDP204_PROJECT.uproject"  -platform=all" ]
+[2023.11.28-02.48.29:239][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.11.28-02.48.29:245][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.11.28-02.48.29:245][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.11.28-02.48.29:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.11.28-02.48.29:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.11.28-02.48.29:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.11.28-02.48.29:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.11.28-02.48.29:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.11.28-02.48.29:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.11.28-02.48.29:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.11.28-02.48.29:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.11.28-02.48.29:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.11.28-02.48.29:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.11.28-02.48.29:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.11.28-02.48.29:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.11.28-02.48.29:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.11.28-02.48.29:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.11.28-02.48.29:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.11.28-02.48.29:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.11.28-02.48.29:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.11.28-02.48.29:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.11.28-02.48.29:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.11.28-02.48.29:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.11.28-02.48.29:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.11.28-02.48.29:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.11.28-02.48.29:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.11.28-02.48.29:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.11.28-02.48.29:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.11.28-02.48.29:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.11.28-02.48.29:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.11.28-02.48.29:282][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.11.28-02.48.29:287][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.11.28-02.48.29:289][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.11.28-02.48.29:289][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.11.28-02.48.29:289][  0]LogTargetPlatformManager:   ADPCM
+[2023.11.28-02.48.29:289][  0]LogTargetPlatformManager:   PCM
+[2023.11.28-02.48.29:291][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.11.28-02.48.29:291][  0]LogTargetPlatformManager:   BINKA
+[2023.11.28-02.48.29:291][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.11.28-02.48.29:291][  0]LogTargetPlatformManager:   OGG
+[2023.11.28-02.48.29:292][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.11.28-02.48.29:292][  0]LogTargetPlatformManager:   OPUS
+[2023.11.28-02.48.29:323][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager:   SF_METAL
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.11.28-02.48.29:327][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.11.28-02.48.29:330][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.11.28-02.48.29:330][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.11.28-02.48.29:330][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.11.28-02.48.29:330][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.11.28-02.48.29:330][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.11.28-02.48.29:330][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.11.28-02.48.29:330][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.11.28-02.48.29:330][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.11.28-02.48.29:330][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.11.28-02.48.29:331][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.11.28-02.48.29:332][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.11.28-02.48.29:337][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.11.28-02.48.29:339][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.11.28-02.48.29:339][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.11.28-02.48.29:339][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.11.28-02.48.29:339][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.11.28-02.48.29:359][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.11.28-02.48.29:359][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.11.28-02.48.29:359][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.11.28-02.48.29:366][  0]LogDerivedDataCache: Speed tests for C:/Users/fraze/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.11.28-02.48.29:366][  0]LogDerivedDataCache: Display: Performance to C:/Users/fraze/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=1184.62MBs, RandomWriteSpeed=152.22MBs. Assigned SpeedClass 'Local'
+[2023.11.28-02.48.29:367][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fraze/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.11.28-02.48.29:367][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.11.28-02.48.29:367][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.11.28-02.48.29:376][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.11.28-02.48.29:376][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.11.28-02.48.29:376][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Intermediate/Shaders/WorkingDirectory/24624/).
+[2023.11.28-02.48.29:376][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fraze/AppData/Local/Temp/UnrealShaderWorkingDir/FA1C81334009465948A893AC7227CF3F/'.
+[2023.11.28-02.48.29:376][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.11.28-02.48.29:376][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.11.28-02.48.30:540][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.11.28-02.48.30:540][  0]LogSlate: Using FreeType 2.10.0
+[2023.11.28-02.48.30:540][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.11.28-02.48.30:572][  0]LogAssetRegistry: FAssetRegistry took 0.0127 seconds to start up
+[2023.11.28-02.48.30:576][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.11.28-02.48.30:733][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.11.28-02.48.30:734][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.11.28-02.48.31:032][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.11.28-02.48.31:032][  0]LogDeviceProfileManager: Active device profile: [0000064C02E11A40][0000064BDFA7C800 50] WindowsEditor
+[2023.11.28-02.48.31:032][  0]LogDeviceProfileManager: Profiles: [0000064C02E11500][0000064BF8FD0000 50] Windows, [0000064C02E11A40][0000064BDFA7C800 50] WindowsEditor, [0000064C02E12840][0000064BFC85C800 50] WindowsServer, [0000064C02E12680][0000064BF8F6A000 50] WindowsClient, [0000064C02E12300][0000064C02E00000 50] IOS, [0000064C02E12140][0000064C02E05000 50] iPadAir2, [0000064C02E15400][0000064C02E0A000 50] IPadPro, [0000064C02E15780][0000064C02E07800 50] iPadAir3, [0000064C02E13480][0000064C02E0C800 50] iPadAir4, [0000064C02E12BC0][0000064BF8F2A000 50] iPadMini4, [0000064C02E147C0][0000064C02E30000 50] iPadMini5, [0000064C02E10A80][0000064C02E35000 50] iPadMini6, [0000064C02E17C40][0000064C02E3C800 50] iPhone6S, [0000064C02E17FC0][0000064C02E3A000 50] iPhone7, [0000064C02E18340][0000064C02E37800 50] iPodTouch7, [0000064C02E13100][0000064C02E02800 50] iPhone6SPlus, [0000064C02E13800][0000064C02DB0000 50] iPhone7Plus, [0000064C02E186C0][0000064C02DB5000 50] iPhoneSE, [0000064C02E13640][0000064C02DB7800 50] iPhone8, [0000064C02E178C0][0000064C02DBA000 50] iPhone8Plus, [0000064C02E18C00][0000064C02DBC800 50] iPhoneX, [0000064C02E17700][0000064C02E32800 50] iPhoneXS, [0000064C02E13F00][0000064C02DC0000 50] iPhoneXSMax, [0000064C02E14280][0000064C02DC5000 50] iPhoneXR, [0000064C02E18A40][0000064C02DC7800 50] iPhone11, [0000064C02E17A80][0000064C02DCA000 50] iPhone11Pro, [0000064C02E11180][0000064C02DCC800 50] iPhone11ProMax, [0000064C02E16740][0000064C02DB2800 50] iPhoneSE2, [0000064C02E11340][0000064C02DD0000 50] iPhone12Mini, [0000064C02E18180][0000064C02DD5000 50] iPhone12, [0000064C02E18500][0000064C02DD7800 50] iPhone12Pro, [0000064C02E17540][0000064C02DDA000 50] iPhone12ProMax, [0000064C02E14EC0][0000064C02DDC800 50] iPhone13Mini, [0000064C02E14B40][0000064C02DC2800 50] iPhone13, [0000064C02E10540][0000064C02E60000 50] iPhone13Pro, [0000064C02E155C0][0000064C02E65000 50] iPhone13ProMax, [0000064C02E10FC0][0000064C02E67800 50] iPadPro105, [0000064C02E16200][0000064C02E6A000 50] iPadPro129, [0000064C02E14600][0000064C02E6C800 50] iPadPro97, [0000064C02E11DC0][0000064C02DD2800 50] iPadPro2_129, [0000064C02E163C0][0000064C02E80000 50] iPad5, [0000064C02E124C0][0000064C02E85000 50] iPad6, [0000064C02E17E00][0000064C02E87800 50] iPad7, [0000064C02E15080][0000064C02E8A000 50] iPad8, [0000064C02E140C0][0000064C02E8C800 50] iPad9, [0000064C02E10C40][0000064C02E62800 50] iPadPro11, [0000064C02E17380][0000064C02EA0000 50] iPadPro2_11, [0000064C02E16040][0000064C02EA5000 50] iPadPro3_11, [0000064C02E10700][0000064C02EA7800 50] iPadPro3_129, [0000064C02E12F40][0000064C02EAA000 50] iPadPro4_129, [0000064C02E16580][0000064C02EAC800 50] iPadPro5_129, [0000064C02E13B80][0000064C02E82800 50] AppleTV, [0000064C02E12D80][0000064C02E70000 50] AppleTV4K, [0000064C02E101C0][0000064C02E75000 50] TVOS, [0000064C02E1A640][0000064C02E7A000 50] Mac, [0000064C02E1A9C0][0000064C02E77800 50] MacEditor, [0000064C02E194C0][0000064C02E7C800 50] MacClient, [0000064C02E16900][0000064C02EA2800 50] MacServer, [0000064C02E1AD40][0000064C02EB2800 50] Linux, [0000064C02E1B0C0][0000064C02EB0000 50] LinuxEditor, [0000064C02E11880][0000064C02EB7800 50] LinuxArm64Editor, [0000064C02E19A00][0000064C02EBA000 50] LinuxArm64, [0000064C02E1AB80][0000064C02EBC800 50] LinuxClient, [0000064C02E108C0][0000064C02E72800 50] LinuxArm64Client, [0000064C02E1A480][0000064C02EC0000 50] LinuxServer, [0000064C02E19140][0000064C02EC5000 50] LinuxArm64Server, [0000064C02E17000][0000064C02EC7800 50] Android, [0000064C02E18880][0000064C02ECA000 50] Android_Preview_OpenGL, [0000064C02E14D00][0000064C02ECC800 50] Android_Preview_Vulkan, [0000064C02E1A2C0][0000064C02EB5000 50] Android_Low, [0000064C02E139C0][0000064C02ED0000 50] Android_Mid, [0000064C02E1A100][0000064C02ED5000 50] Android_High, [0000064C02E19840][0000064C02ED7800 50] Android_Default, [0000064C02E18F80][0000064C02EDA000 50] Android_Adreno4xx, [0000064C02E10E00][0000064C02EDC800 50] Android_Adreno5xx_Low, [0000064C02E15240][0000064C02EC2800 50] Android_Adreno5xx, [0000064C02E19D80][0000064C02EE0000 50] Android_Adreno6xx, [0000064C02E1BB40][0000064C02EE5000 50] Android_Adreno6xx_Vulkan, [0000064C02E1B980][0000064C02EE7800 50] Android_Adreno7xx, [0000064C02E15E80][0000064C02EEA000 50] Android_Adreno7xx_Vulkan, [0000064C02E132C0][0000064C02EEC800 50] Android_Mali_T6xx, [0000064C02E16AC0][0000064C02ED2800 50] Android_Mali_T7xx, [0000064C02E10000][0000064C02EF0000 50] Android_Mali_T8xx, [0000064C02E15B00][0000064C02EF5000 50] Android_Mali_G71, [0000064C02E1AF00][0000064C02EF7800 50] Android_Mali_G72, [0000064C02E19680][0000064C02EFA000 50] Android_Mali_G72_Vulkan, [0000064C02E12A00][0000064C02EFC800 50] Android_Mali_G76, [0000064C02E13D40][0000064C02EE2800 50] Android_Mali_G76_Vulkan, [0000064C02E19BC0][0000064C02F00000 50] Android_Mali_G77, [0000064C02E14980][0000064C02F05000 50] Android_Mali_G77_Vulkan, [0000064C02E1BD00][0000064C02F07800 50] Android_Mali_G78, [0000064C02E15CC0][0000064C02F0A000 50] Android_Mali_G78_Vulkan, [0000064C02E1BEC0][0000064C02F0C800 50] Android_Mali_G710, [0000064C02E14440][0000064C02EF2800 50] Android_Mali_G710_Vulkan, [0000064C02E1C080][0000064C02F10000 50] Android_Xclipse_920, [0000064C02E1B600][0000064C02F15000 50] Android_Xclipse_920_Vulkan, [0000064C02E16C80][0000064C02F17800 50] Android_Vulkan_SM5, [0000064C02E19F40][0000064C02F1A000 50] Android_PowerVR_G6xxx, [0000064C02E1B7C0][0000064C02F1C800 50] Android_PowerVR_GT7xxx, [0000064C02E1C240][0000064C02F02800 50] Android_PowerVR_GE8xxx, [0000064C02E1CE80][0000064C02F20000 50] Android_PowerVR_GM9xxx, [0000064C02E11C00][0000064C02F25000 50] Android_PowerVR_GM9xxx_Vulkan, [0000064C02E1D040][0000064C02F27800 50] Android_TegraK1, [0000064C02E19300][0000064C02F2A000 50] Android_Unknown_Vulkan, [0000064C02E1C400][0000064C02F2C800 50] Oculus_Quest, [0000064C02E1C780][0000064C02F12800 50] Oculus_Quest2, [0000064C02E10380][0000064C02F30000 50] HoloLens, 
+[2023.11.28-02.48.31:032][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.11.28-02.48.31:038][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.11.28-02.48.31:038][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.11.28-02.48.31:038][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.11.28-02.48.31:038][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.11.28-02.48.31:038][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.17134.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.11.28-02.48.31:056][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.11.28-02.48.31:212][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.11.28-02.48.31:212][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.11.28-02.48.31:212][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.11.28-02.48.31:212][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.11.28-02.48.31:212][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.11.28-02.48.31:233][  0]LogNetVersion: GDP204_PROJECT 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2710090426)
+[2023.11.28-02.48.31:346][  0]LogSlate: Border
+[2023.11.28-02.48.31:346][  0]LogSlate: BreadcrumbButton
+[2023.11.28-02.48.31:346][  0]LogSlate: Default
+[2023.11.28-02.48.31:346][  0]LogSlate: Icons.Save
+[2023.11.28-02.48.31:346][  0]LogSlate: Icons.Toolbar.Settings
+[2023.11.28-02.48.31:346][  0]LogSlate: ListView
+[2023.11.28-02.48.31:346][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.11.28-02.48.31:346][  0]LogSlate: SoftwareCursor_Grab
+[2023.11.28-02.48.31:346][  0]LogSlate: TableView.DarkRow
+[2023.11.28-02.48.31:346][  0]LogSlate: TableView.Row
+[2023.11.28-02.48.31:346][  0]LogSlate: TreeView
+[2023.11.28-02.48.31:496][  0]SourceControl: Source control is disabled
+[2023.11.28-02.48.31:530][  0]SourceControl: Source control is disabled
+[2023.11.28-02.48.31:530][  0]SourceControl: Source control is disabled
+[2023.11.28-02.48.31:640][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.11.28-02.48.31:640][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.11.28-02.48.31:640][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.11.28-02.48.31:936][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 79D5EFB14C82CD0A9472B9B1206843F9 | Instance: 39F15D5E4DC6C53663EA4B82F22BB246 (DESKTOP-OHU6NCQ-24624).
+[2023.11.28-02.48.31:969][  0]LogPython: Using Python 3.9.7
+[2023.11.28-02.48.32:673][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.11.28-02.48.32:677][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.11.28-02.48.32:742][  0]SourceControl: Source control is disabled
+[2023.11.28-02.48.32:744][  0]SourceControl: Source control is disabled
+[2023.11.28-02.48.32:754][  0]SourceControl: Source control is disabled
+[2023.11.28-02.48.32:761][  0]LogUProjectInfo: Found projects:
+[2023.11.28-02.48.33:079][  0]LogOpenImageDenoise: OIDN starting up
+[2023.11.28-02.48.33:091][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.11.28-02.48.33:103][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.28-02.48.33:103][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.28-02.48.33:189][  0]LogCollectionManager: Loaded 0 collections in 0.002249 seconds
+[2023.11.28-02.48.33:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Collections/' took 0.00s
+[2023.11.28-02.48.33:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Developers/fraze/Collections/' took 0.00s
+[2023.11.28-02.48.33:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Collections/' took 0.00s
+[2023.11.28-02.48.33:499][  0]LogEngine: Initializing Engine...
+[2023.11.28-02.48.33:513][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.11.28-02.48.33:516][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.11.28-02.48.33:748][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.11.28-02.48.33:749][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.28-02.48.33:759][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-02.48.33:787][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.11.28-02.48.33:788][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.11.28-02.48.33:810][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.11.28-02.48.33:811][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.11.28-02.48.33:811][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.11.28-02.48.33:811][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.11.28-02.48.33:811][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.11.28-02.48.33:811][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.28-02.48.33:811][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.28-02.48.33:811][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.28-02.48.33:811][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.28-02.48.33:811][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.28-02.48.33:811][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.28-02.48.33:811][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.28-02.48.33:811][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.28-02.48.33:812][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.28-02.48.33:812][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.28-02.48.33:812][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.28-02.48.33:819][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.28-02.48.33:866][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Pebbles)
+[2023.11.28-02.48.33:866][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.28-02.48.33:868][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.28-02.48.33:868][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.28-02.48.33:868][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.11.28-02.48.33:868][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.28-02.48.33:869][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.28-02.48.33:869][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.11.28-02.48.33:869][  0]LogInit: FAudioDevice initialized.
+[2023.11.28-02.48.33:869][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.11.28-02.48.33:869][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.11.28-02.48.33:869][  0]LogInit: Texture streaming: Enabled
+[2023.11.28-02.48.33:903][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.11.28-02.48.33:911][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.11.28-02.48.33:934][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.11.28-02.48.33:941][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.11.28-02.48.33:941][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.11.28-02.48.35:906][  0]LogLiveCoding: Display: First instance in process group "UE_GDP204_PROJECT_0xbc5f397b", spawning console
+[2023.11.28-02.48.35:906][  0]LogLiveCoding: Display: Waiting for server
+[2023.11.28-02.48.35:906][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.11.28-02.48.35:934][  0]LogInit: Transaction tracking system initialized
+[2023.11.28-02.48.36:012][  0]BlueprintLog: New page: Editor Load
+[2023.11.28-02.48.36:204][  0]LocalizationService: Localization service is disabled
+[2023.11.28-02.48.36:254][  0]TimingProfiler: Initialize
+[2023.11.28-02.48.36:254][  0]TimingProfiler: OnSessionChanged
+[2023.11.28-02.48.36:254][  0]LoadingProfiler: Initialize
+[2023.11.28-02.48.36:254][  0]LoadingProfiler: OnSessionChanged
+[2023.11.28-02.48.36:254][  0]NetworkingProfiler: Initialize
+[2023.11.28-02.48.36:254][  0]NetworkingProfiler: OnSessionChanged
+[2023.11.28-02.48.36:254][  0]MemoryProfiler: Initialize
+[2023.11.28-02.48.36:254][  0]MemoryProfiler: OnSessionChanged
+[2023.11.28-02.48.36:888][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/' took 0.04s
+[2023.11.28-02.48.36:888][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.11.28-02.48.36:959][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.11.28-02.48.36:961][  0]SourceControl: Source control is disabled
+[2023.11.28-02.48.36:961][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.887
+[2023.11.28-02.48.36:961][  0]Cmd: MAP LOAD FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.11.28-02.48.36:967][  0]LightingResults: New page: Lighting Build
+[2023.11.28-02.48.36:974][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-02.48.36:974][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-02.48.36:974][  0]MapCheck: New page: Map Check
+[2023.11.28-02.48.36:974][  0]LightingResults: New page: Lighting Build
+[2023.11.28-02.48.36:978][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.28-02.48.36:981][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.11.28-02.48.37:628][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.11.28-02.48.37:634][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-02.48.37:634][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.28-02.48.37:639][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.28-02.48.37:639][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.11.28-02.48.39:036][  0]LogWorldPartition: Display: WorldPartition initialize took 1.39 sec
+[2023.11.28-02.48.39:053][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.28-02.48.39:062][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.11.28-02.48.39:063][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.28-02.48.39:063][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.325ms to complete.
+[2023.11.28-02.48.39:063][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 2.102
+[2023.11.28-02.48.39:075][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.001
+[2023.11.28-02.48.39:075][  0]LogShaderCompilers: Display: ================================================
+[2023.11.28-02.48.39:075][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.28-02.48.39:075][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.11.28-02.48.39:075][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.11.28-02.48.39:075][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.11.28-02.48.39:075][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.28-02.48.39:076][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.28-02.48.39:076][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.11.28-02.48.39:076][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.28-02.48.39:076][  0]LogShaderCompilers: Display: ================================================
+[2023.11.28-02.48.39:225][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-02.48.39:231][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-02.48.39:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-02.48.39:240][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-02.48.39:300][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.11.28-02.48.39:301][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.28-02.48.39:310][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.11.28-02.48.39:310][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.28-02.48.39:317][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.11.28-02.48.39:317][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.28-02.48.39:324][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.11.28-02.48.39:324][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.28-02.48.39:341][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.11.28-02.48.39:341][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.28-02.48.39:349][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.11.28-02.48.39:349][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.28-02.48.39:356][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.11.28-02.48.39:356][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.28-02.48.39:363][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.11.28-02.48.39:363][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.28-02.48.39:369][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.11.28-02.48.39:369][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.28-02.48.39:376][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.11.28-02.48.39:376][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.11.28-02.48.39:376][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.11.28-02.48.39:856][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.11.28-02.48.39:860][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.11.28-02.48.39:866][  0]LogSlate: Took 0.005130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.11.28-02.48.39:872][  0]LogSlate: Took 0.004446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.11.28-02.48.39:877][  0]LogSlate: Took 0.004261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.11.28-02.48.39:893][  0]LogViewport: Scene viewport resized to 1557x597, mode Windowed.
+[2023.11.28-02.48.39:999][  0]LogSlate: Took 0.005879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.28-02.48.40:224][  0]LogStall: Startup...
+[2023.11.28-02.48.40:226][  0]LogStall: Startup complete.
+[2023.11.28-02.48.40:247][  0]LogLoad: (Engine Initialization) Total time: 13.17 seconds
+[2023.11.28-02.48.40:247][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.11.28-02.48.40:329][  0]LogAssetRegistry: Asset discovery search completed in 9.7590 seconds
+[2023.11.28-02.48.40:336][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.11.28-02.48.40:337][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.11.28-02.48.41:521][ 31]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.11.28-02.48.45:480][405]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/' took 5.16s
+[2023.11.28-02.48.48:246][695]AssetReimport: New page: Outstanding source content changes 11:48:48 pm
+[2023.11.28-02.48.48:252][695]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.28-02.48.48:273][696]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/Collide 3(scrutiny_shot).wav]
+[2023.11.28-02.48.48:275][696]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/Collide 3(scrutiny_shot).wav)
+[2023.11.28-02.48.48:296][696]LogAudioEditor: -- imported successfully
+[2023.11.28-02.48.48:377][697]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern cut 30.wav]
+[2023.11.28-02.48.48:396][697]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern cut 30.wav)
+[2023.11.28-02.48.49:001][697]LogAudioEditor: -- imported successfully
+[2023.11.28-02.48.49:449][698]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern cut 60.wav]
+[2023.11.28-02.48.49:485][698]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern cut 60.wav)
+[2023.11.28-02.48.50:616][698]LogAudioEditor: -- imported successfully
+[2023.11.28-02.48.51:323][699]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern Intensity 1.wav]
+[2023.11.28-02.48.51:377][699]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern Intensity 1.wav)
+[2023.11.28-02.48.52:875][699]LogAudioEditor: -- imported successfully
+[2023.11.28-02.48.53:747][700]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern Intensity 2.wav]
+[2023.11.28-02.48.53:798][700]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern Intensity 2.wav)
+[2023.11.28-02.48.55:442][700]LogAudioEditor: -- imported successfully
+[2023.11.28-02.48.56:466][701]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern Main.wav]
+[2023.11.28-02.48.56:518][701]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern Main.wav)
+[2023.11.28-02.48.58:184][701]LogAudioEditor: -- imported successfully
+[2023.11.28-02.48.59:187][702]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Cut 30.wav]
+[2023.11.28-02.48.59:204][702]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Cut 30.wav)
+[2023.11.28-02.48.59:788][702]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.00:243][703]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Cut 60.wav]
+[2023.11.28-02.49.00:278][703]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Cut 60.wav)
+[2023.11.28-02.49.01:481][703]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.02:294][704]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Intensity 1.wav]
+[2023.11.28-02.49.02:345][704]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Intensity 1.wav)
+[2023.11.28-02.49.04:055][704]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.05:200][705]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Intensity 2.wav]
+[2023.11.28-02.49.05:249][705]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Intensity 2.wav)
+[2023.11.28-02.49.06:907][705]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.07:988][706]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Main.wav]
+[2023.11.28-02.49.08:038][706]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Main.wav)
+[2023.11.28-02.49.09:706][706]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.10:738][707]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Cut 30.wav]
+[2023.11.28-02.49.10:757][707]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Cut 30.wav)
+[2023.11.28-02.49.11:359][707]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.11:810][708]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Cut 60.wav]
+[2023.11.28-02.49.11:844][708]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Cut 60.wav)
+[2023.11.28-02.49.13:004][708]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.13:767][709]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Intensity 1.wav]
+[2023.11.28-02.49.13:816][709]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Intensity 1.wav)
+[2023.11.28-02.49.15:403][709]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.16:424][710]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Intensity 2.wav]
+[2023.11.28-02.49.16:473][710]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Intensity 2.wav)
+[2023.11.28-02.49.18:069][710]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.19:105][711]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Main.wav]
+[2023.11.28-02.49.19:154][711]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Main.wav)
+[2023.11.28-02.49.20:797][711]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.21:866][712]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Cut 30.wav]
+[2023.11.28-02.49.21:883][712]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Cut 30.wav)
+[2023.11.28-02.49.22:441][712]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.22:847][713]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Cut 60.wav]
+[2023.11.28-02.49.22:882][713]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Cut 60.wav)
+[2023.11.28-02.49.24:022][713]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.24:770][714]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Intensity 1.wav]
+[2023.11.28-02.49.24:821][714]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Intensity 1.wav)
+[2023.11.28-02.49.26:453][714]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.27:530][715]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Intensity 2.wav]
+[2023.11.28-02.49.27:580][715]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Intensity 2.wav)
+[2023.11.28-02.49.29:215][715]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.30:276][716]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Main.wav]
+[2023.11.28-02.49.30:327][716]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Main.wav)
+[2023.11.28-02.49.31:973][716]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.32:917][717]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/ArrowImpact1.wav]
+[2023.11.28-02.49.32:918][717]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/ArrowImpact1.wav)
+[2023.11.28-02.49.32:923][717]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.32:954][717]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/BowShot2.wav]
+[2023.11.28-02.49.32:954][717]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/BowShot2.wav)
+[2023.11.28-02.49.32:962][717]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.32:978][717]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/EquipBow(bolt_reload_after_shot).wav]
+[2023.11.28-02.49.32:978][717]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/EquipBow(bolt_reload_after_shot).wav)
+[2023.11.28-02.49.32:984][717]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.32:991][717]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/Impact1(enemy_melee).wav]
+[2023.11.28-02.49.32:991][717]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/Impact1(enemy_melee).wav)
+[2023.11.28-02.49.32:999][717]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.33:028][717]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly Die 1.wav]
+[2023.11.28-02.49.33:030][717]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly Die 1.wav)
+[2023.11.28-02.49.33:103][717]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.33:303][718]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly Die 2.wav]
+[2023.11.28-02.49.33:306][718]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly Die 2.wav)
+[2023.11.28-02.49.33:398][718]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.33:614][719]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly Die 3.wav]
+[2023.11.28-02.49.33:617][719]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly Die 3.wav)
+[2023.11.28-02.49.33:684][719]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.33:749][719]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly Die 4.wav]
+[2023.11.28-02.49.33:751][719]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly Die 4.wav)
+[2023.11.28-02.49.33:796][719]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.33:927][720]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Misc/Button04(lever).wav]
+[2023.11.28-02.49.33:927][720]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Misc/Button04(lever).wav)
+[2023.11.28-02.49.33:934][720]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.33:959][720]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Misc/ChestOpen3(door).wav]
+[2023.11.28-02.49.33:959][720]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Misc/ChestOpen3(door).wav)
+[2023.11.28-02.49.33:970][720]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.33:987][720]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepStone1(playerstep_1).wav]
+[2023.11.28-02.49.33:988][720]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepStone1(playerstep_1).wav)
+[2023.11.28-02.49.33:995][720]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.34:003][720]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepStone2(playerstep_2).wav]
+[2023.11.28-02.49.34:003][720]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepStone2(playerstep_2).wav)
+[2023.11.28-02.49.34:011][720]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.34:018][720]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepWet1(panicstep_1).wav]
+[2023.11.28-02.49.34:019][720]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepWet1(panicstep_1).wav)
+[2023.11.28-02.49.34:025][720]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.34:031][720]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepWet2(panicstep_2).wav]
+[2023.11.28-02.49.34:032][720]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepWet2(panicstep_2).wav)
+[2023.11.28-02.49.34:040][720]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.34:048][720]LogAudioEditor: Performing atomic reimport of [C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/Worms(Deluge_walk).wav]
+[2023.11.28-02.49.34:049][720]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/Worms(Deluge_walk).wav)
+[2023.11.28-02.49.34:087][720]LogAudioEditor: -- imported successfully
+[2023.11.28-02.49.34:308][721]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004537 seconds
+[2023.11.28-02.49.34:314][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Ambient_Concern_cut_30
+[2023.11.28-02.49.34:314][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Ambient_Concern_cut_305D78C0CE495FAC7522B4C2A0F0CD797E.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Ambient_Concern_cut_30.uasset'
+[2023.11.28-02.49.34:329][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Ambient_Concern_cut_60
+[2023.11.28-02.49.34:330][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Ambient_Concern_cut_602B6C0AC4404172D6C1EC1093DD55D45D.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Ambient_Concern_cut_60.uasset'
+[2023.11.28-02.49.34:354][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Ambient_Concern_Intensity_1
+[2023.11.28-02.49.34:354][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Ambient_Concern_Intensity_1C440A72A4FD20D7F24B4EF85AA605D14.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Ambient_Concern_Intensity_1.uasset'
+[2023.11.28-02.49.34:380][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Ambient_Concern_Intensity_2
+[2023.11.28-02.49.34:381][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Ambient_Concern_Intensity_25B652986412C62DCF04E6594134463AA.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Ambient_Concern_Intensity_2.uasset'
+[2023.11.28-02.49.34:405][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Ambient_Concern_Main
+[2023.11.28-02.49.34:405][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Ambient_Concern_Main95FD9C9E4660AE7EBB61D6BD76701B6E.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Ambient_Concern_Main.uasset'
+[2023.11.28-02.49.34:412][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Muisc/Metal_Doomed_Cut_30" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Doomed_Cut_30.uasset" SILENT=true
+[2023.11.28-02.49.34:416][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Metal_Doomed_Cut_30
+[2023.11.28-02.49.34:416][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Metal_Doomed_Cut_30E7BC7C0D495D41D1084C2391AB043638.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Doomed_Cut_30.uasset'
+[2023.11.28-02.49.34:426][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Muisc/Metal_Doomed_Cut_60" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Doomed_Cut_60.uasset" SILENT=true
+[2023.11.28-02.49.34:431][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Metal_Doomed_Cut_60
+[2023.11.28-02.49.34:432][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Metal_Doomed_Cut_6006071C224EF6FBB0947D369A2EC0192B.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Doomed_Cut_60.uasset'
+[2023.11.28-02.49.34:454][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Metal_Doomed_Intensity_1
+[2023.11.28-02.49.34:455][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Metal_Doomed_Intensity_1B52009D845DCD6AA57BCF0B60B64A256.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Doomed_Intensity_1.uasset'
+[2023.11.28-02.49.34:478][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Metal_Doomed_Intensity_2
+[2023.11.28-02.49.34:478][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Metal_Doomed_Intensity_2CDA95B484EF3256A796C35B8848B8140.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Doomed_Intensity_2.uasset'
+[2023.11.28-02.49.34:492][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Muisc/Metal_Doomed_Main" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Doomed_Main.uasset" SILENT=true
+[2023.11.28-02.49.34:503][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Metal_Doomed_Main
+[2023.11.28-02.49.34:504][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Metal_Doomed_Main9A8572F34E49B8634CE2578F3F0D11A9.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Doomed_Main.uasset'
+[2023.11.28-02.49.34:511][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Muisc/Metal_Sludge_Cut_30" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Sludge_Cut_30.uasset" SILENT=true
+[2023.11.28-02.49.34:514][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Metal_Sludge_Cut_30
+[2023.11.28-02.49.34:515][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Metal_Sludge_Cut_30BD6AAAFF4095B12A0A26178312D5AEEC.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Sludge_Cut_30.uasset'
+[2023.11.28-02.49.34:525][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Muisc/Metal_Sludge_Cut_60" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Sludge_Cut_60.uasset" SILENT=true
+[2023.11.28-02.49.34:530][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Metal_Sludge_Cut_60
+[2023.11.28-02.49.34:531][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Metal_Sludge_Cut_60329089AA47D51A20926BCA957D63E9B4.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Sludge_Cut_60.uasset'
+[2023.11.28-02.49.34:551][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Metal_Sludge_Intensity_1
+[2023.11.28-02.49.34:552][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Metal_Sludge_Intensity_119EB2D8E456C6DCB8C9AE9889CDDBA0D.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Sludge_Intensity_1.uasset'
+[2023.11.28-02.49.34:573][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Metal_Sludge_Intensity_2
+[2023.11.28-02.49.34:574][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Metal_Sludge_Intensity_22792B9524F431494A7DB9E958A251A01.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Sludge_Intensity_2.uasset'
+[2023.11.28-02.49.34:586][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Muisc/Metal_Sludge_Main" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Sludge_Main.uasset" SILENT=true
+[2023.11.28-02.49.34:595][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Metal_Sludge_Main
+[2023.11.28-02.49.34:595][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Metal_Sludge_MainE296721C44281D71E7D00489F24B361D.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Metal_Sludge_Main.uasset'
+[2023.11.28-02.49.34:605][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Orch_Rock_Suspense_Cut_30
+[2023.11.28-02.49.34:606][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Orch_Rock_Suspense_Cut_30DC0F0B024716CCD9601AA4AD340BB600.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Orch_Rock_Suspense_Cut_30.uasset'
+[2023.11.28-02.49.34:621][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Orch_Rock_Suspense_Cut_60
+[2023.11.28-02.49.34:622][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Orch_Rock_Suspense_Cut_600EBDA77646EEA3A422A665A0184EA594.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Orch_Rock_Suspense_Cut_60.uasset'
+[2023.11.28-02.49.34:644][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Orch_Rock_Suspense_Intensity_1
+[2023.11.28-02.49.34:645][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Orch_Rock_Suspense_Intensity_1B90DF8B8468ABB0BCB37188BA6603539.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Orch_Rock_Suspense_Intensity_1.uasset'
+[2023.11.28-02.49.34:667][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Orch_Rock_Suspense_Intensity_2
+[2023.11.28-02.49.34:667][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Orch_Rock_Suspense_Intensity_2DBB0654E4EE8EF154836A8B54994C7DB.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Orch_Rock_Suspense_Intensity_2.uasset'
+[2023.11.28-02.49.34:692][721]LogSavePackage: Moving output files for package: /Game/Audio/Muisc/Orch_Rock_Suspense_Main
+[2023.11.28-02.49.34:693][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Orch_Rock_Suspense_MainD63250FF488D07EF5108CB90D6A35D33.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Orch_Rock_Suspense_Main.uasset'
+[2023.11.28-02.49.34:696][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/Combat/ArrowImpact1" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/ArrowImpact1.uasset" SILENT=true
+[2023.11.28-02.49.34:697][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/Combat/ArrowImpact1
+[2023.11.28-02.49.34:698][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/ArrowImpact185FC0AB5498353DFA87E0ABCF40AF5FA.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/ArrowImpact1.uasset'
+[2023.11.28-02.49.34:701][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/Combat/BowShot2" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/BowShot2.uasset" SILENT=true
+[2023.11.28-02.49.34:703][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/Combat/BowShot2
+[2023.11.28-02.49.34:704][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/BowShot29EC17E8748CAEC487042559B9A7B9F10.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/BowShot2.uasset'
+[2023.11.28-02.49.34:708][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/Combat/EquipBow_bolt_reload_after_shot_
+[2023.11.28-02.49.34:709][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/EquipBow_bolt_reload_after_shot_472F467E46904F6B91C94DAD1721A443.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/EquipBow_bolt_reload_after_shot_.uasset'
+[2023.11.28-02.49.34:713][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/Combat/Impact1_enemy_melee_
+[2023.11.28-02.49.34:714][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Impact1_enemy_melee_F41EEDE44C88036335CA34828FA3523F.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/Impact1_enemy_melee_.uasset'
+[2023.11.28-02.49.34:717][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/GameOver/Nearly_Die_1" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly_Die_1.uasset" SILENT=true
+[2023.11.28-02.49.34:719][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/GameOver/Nearly_Die_1
+[2023.11.28-02.49.34:720][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Nearly_Die_121C18EF44E3DE2E23A833DAA6760CB34.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly_Die_1.uasset'
+[2023.11.28-02.49.34:724][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/GameOver/Nearly_Die_2" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly_Die_2.uasset" SILENT=true
+[2023.11.28-02.49.34:726][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/GameOver/Nearly_Die_2
+[2023.11.28-02.49.34:727][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Nearly_Die_2E08FA8444F6F8FC7649B33B9FE793242.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly_Die_2.uasset'
+[2023.11.28-02.49.34:730][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/GameOver/Nearly_Die_3" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly_Die_3.uasset" SILENT=true
+[2023.11.28-02.49.34:732][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/GameOver/Nearly_Die_3
+[2023.11.28-02.49.34:733][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Nearly_Die_339A4D6B340F32B8FCBD8829C9658A433.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly_Die_3.uasset'
+[2023.11.28-02.49.34:736][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/GameOver/Nearly_Die_4" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly_Die_4.uasset" SILENT=true
+[2023.11.28-02.49.34:738][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/GameOver/Nearly_Die_4
+[2023.11.28-02.49.34:738][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Nearly_Die_4B7C8CC604996F39247629F91B4948760.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly_Die_4.uasset'
+[2023.11.28-02.49.34:741][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/Misc/Button04_lever_" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Misc/Button04_lever_.uasset" SILENT=true
+[2023.11.28-02.49.34:742][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/Misc/Button04_lever_
+[2023.11.28-02.49.34:743][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Button04_lever_7A3E7770471129B725ECE49087A6E91C.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Misc/Button04_lever_.uasset'
+[2023.11.28-02.49.34:746][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/Misc/ChestOpen3_door_" FILE="../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Misc/ChestOpen3_door_.uasset" SILENT=true
+[2023.11.28-02.49.34:747][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/Misc/ChestOpen3_door_
+[2023.11.28-02.49.34:748][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/ChestOpen3_door_76E69C8D46C6C8ADFDCF87A3EFAF8F7A.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Misc/ChestOpen3_door_.uasset'
+[2023.11.28-02.49.34:752][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/Steps/StepStone1_playerstep_1_
+[2023.11.28-02.49.34:753][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/StepStone1_playerstep_1_08E2A0EF47BC010D484C29B93C71E9C7.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepStone1_playerstep_1_.uasset'
+[2023.11.28-02.49.34:757][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/Steps/StepStone2_playerstep_2_
+[2023.11.28-02.49.34:757][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/StepStone2_playerstep_2_EEBAB6104D16E27453EDB0BB3A1DABB5.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepStone2_playerstep_2_.uasset'
+[2023.11.28-02.49.34:761][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/Steps/StepWet1_panicstep_1_
+[2023.11.28-02.49.34:763][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/StepWet1_panicstep_1_218A0B634F90C635C217EE94230BD03B.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepWet1_panicstep_1_.uasset'
+[2023.11.28-02.49.34:767][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/Steps/StepWet2_panicstep_2_
+[2023.11.28-02.49.34:768][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/StepWet2_panicstep_2_C9F9DB404446E1D5F1F496AD066ACBF3.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepWet2_panicstep_2_.uasset'
+[2023.11.28-02.49.34:772][721]LogSavePackage: Moving output files for package: /Game/Audio/SFX/Steps/Worms_Deluge_walk_
+[2023.11.28-02.49.34:773][721]LogSavePackage: Moving '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Saved/Worms_Deluge_walk_541784B24B26EE7760F2C69BFF6D1ACC.tmp' to '../../../../../../Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/Worms_Deluge_walk_.uasset'
+[2023.11.28-02.49.34:801][722]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.28-02.49.34:801][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/Combat/ArrowImpact1.ArrowImpact1
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/Combat/Impact1_enemy_melee_.Impact1_enemy_melee_
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/Combat/EquipBow_bolt_reload_after_shot_.EquipBow_bolt_reload_after_shot_
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/GameOver/Nearly_Die_4.Nearly_Die_4
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/Steps/StepStone1_playerstep_1_.StepStone1_playerstep_1_
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/Steps/StepStone2_playerstep_2_.StepStone2_playerstep_2_
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/Misc/ChestOpen3_door_.ChestOpen3_door_
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/GameOver/Nearly_Die_3.Nearly_Die_3
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/GameOver/Nearly_Die_2.Nearly_Die_2
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/GameOver/Nearly_Die_1.Nearly_Die_1
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/Combat/BowShot2.BowShot2
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Orch_Rock_Suspense_Main.Orch_Rock_Suspense_Main
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Orch_Rock_Suspense_Intensity_2.Orch_Rock_Suspense_Intensity_2
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Orch_Rock_Suspense_Intensity_1.Orch_Rock_Suspense_Intensity_1
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Orch_Rock_Suspense_Cut_60.Orch_Rock_Suspense_Cut_60
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Orch_Rock_Suspense_Cut_30.Orch_Rock_Suspense_Cut_30
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Metal_Sludge_Main.Metal_Sludge_Main
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Metal_Sludge_Intensity_2.Metal_Sludge_Intensity_2
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Metal_Sludge_Intensity_1.Metal_Sludge_Intensity_1
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Metal_Sludge_Cut_60.Metal_Sludge_Cut_60
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Metal_Sludge_Cut_30.Metal_Sludge_Cut_30
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Metal_Doomed_Main.Metal_Doomed_Main
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Metal_Doomed_Intensity_2.Metal_Doomed_Intensity_2
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Metal_Doomed_Intensity_1.Metal_Doomed_Intensity_1
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Metal_Doomed_Cut_60.Metal_Doomed_Cut_60
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Metal_Doomed_Cut_30.Metal_Doomed_Cut_30
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Ambient_Concern_Main.Ambient_Concern_Main
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Ambient_Concern_Intensity_2.Ambient_Concern_Intensity_2
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Ambient_Concern_Intensity_1.Ambient_Concern_Intensity_1
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Ambient_Concern_cut_60.Ambient_Concern_cut_60
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/Muisc/Ambient_Concern_cut_30.Ambient_Concern_cut_30
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/Steps/StepWet1_panicstep_1_.StepWet1_panicstep_1_
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/Steps/StepWet2_panicstep_2_.StepWet2_panicstep_2_
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/Misc/Button04_lever_.Button04_lever_
+[2023.11.28-02.49.34:802][722]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/Steps/Worms_Deluge_walk_.Worms_Deluge_walk_
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Collide_3_scrutiny_shot_ from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/Collide 3(scrutiny_shot).wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Ambient_Concern_cut_30 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern cut 30.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Ambient_Concern_cut_60 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern cut 60.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Ambient_Concern_Intensity_1 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern Intensity 1.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Ambient_Concern_Intensity_2 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern Intensity 2.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Ambient_Concern_Main from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Concern (RT 6.0) (title_theme)/Ambient Concern Main.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Metal_Doomed_Cut_30 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Cut 30.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Metal_Doomed_Cut_60 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Cut 60.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Metal_Doomed_Intensity_1 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Intensity 1.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Metal_Doomed_Intensity_2 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Intensity 2.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Metal_Doomed_Main from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Doomed (RT 4.10 sec)/Metal Doomed Main.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Metal_Sludge_Cut_30 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Cut 30.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Metal_Sludge_Cut_60 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Cut 60.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Metal_Sludge_Intensity_1 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Intensity 1.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Metal_Sludge_Intensity_2 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Intensity 2.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Metal_Sludge_Main from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Sludge (RT 4.20 sec)/Metal Sludge Main.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Orch_Rock_Suspense_Cut_30 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Cut 30.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Orch_Rock_Suspense_Cut_60 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Cut 60.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Orch_Rock_Suspense_Intensity_1 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Intensity 1.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Orch_Rock_Suspense_Intensity_2 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Intensity 2.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Orch_Rock_Suspense_Main from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/Muisc/Suspense (RT 2.16 sec)/Orch Rock Suspense Main.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset ArrowImpact1 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/ArrowImpact1.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset BowShot2 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/BowShot2.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset EquipBow_bolt_reload_after_shot_ from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/EquipBow(bolt_reload_after_shot).wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Impact1_enemy_melee_ from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Combat/Impact1(enemy_melee).wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Nearly_Die_1 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly Die 1.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Nearly_Die_2 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly Die 2.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Nearly_Die_3 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly Die 3.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Nearly_Die_4 from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/GameOver/Nearly Die 4.wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Button04_lever_ from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Misc/Button04(lever).wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset ChestOpen3_door_ from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Misc/ChestOpen3(door).wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset StepStone1_playerstep_1_ from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepStone1(playerstep_1).wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset StepStone2_playerstep_2_ from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepStone2(playerstep_2).wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset StepWet1_panicstep_1_ from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepWet1(panicstep_1).wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset StepWet2_panicstep_2_ from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/StepWet2(panicstep_2).wav.
+[2023.11.28-02.49.37:805][731]AssetReimport: Reimported asset Worms_Deluge_walk_ from C:/Users/fraze/Documents/GitHub/GDP204/GDP204_PROJECT/Content/Audio/SFX/Steps/Worms(Deluge_walk).wav.
+[2023.11.28-02.50.30:021][666]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.28-02.50.30:022][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
